@@ -1,0 +1,1739 @@
+{
+ "latestMonth": "2026-09",
+ "estimatedMonths": [
+  "2026-09"
+ ],
+ "monthly": [
+  {
+   "month": "2015-01",
+   "bulgaria": -2.4,
+   "eu": -0.6,
+   "bulgariaIndex": 99.8,
+   "euIndex": 98.46,
+   "food": -1,
+   "energy": 9.1,
+   "transport": -11.3
+  },
+  {
+   "month": "2015-02",
+   "bulgaria": -1.7,
+   "eu": -0.3,
+   "bulgariaIndex": 99.86,
+   "euIndex": 99,
+   "food": 0,
+   "energy": 9.1,
+   "transport": -9.7
+  },
+  {
+   "month": "2015-03",
+   "bulgaria": -1.1,
+   "eu": -0.1,
+   "bulgariaIndex": 100.19,
+   "euIndex": 100.01,
+   "food": 0.5,
+   "energy": 9.2,
+   "transport": -7.1
+  },
+  {
+   "month": "2015-04",
+   "bulgaria": -0.9,
+   "eu": 0.1,
+   "bulgariaIndex": 100.66,
+   "euIndex": 100.42,
+   "food": 1.6,
+   "energy": 8.1,
+   "transport": -8
+  },
+  {
+   "month": "2015-05",
+   "bulgaria": -0.3,
+   "eu": 0.5,
+   "bulgariaIndex": 100.7,
+   "euIndex": 100.7,
+   "food": 1.8,
+   "energy": 8.1,
+   "transport": -6.2
+  },
+  {
+   "month": "2015-06",
+   "bulgaria": -0.6,
+   "eu": 0.4,
+   "bulgariaIndex": 100.15,
+   "euIndex": 100.66,
+   "food": 0.8,
+   "energy": 8.1,
+   "transport": -5.6
+  },
+  {
+   "month": "2015-07",
+   "bulgaria": -1,
+   "eu": 0.4,
+   "bulgariaIndex": 100.34,
+   "euIndex": 100.14,
+   "food": -0.5,
+   "energy": 6.1,
+   "transport": -6.9
+  },
+  {
+   "month": "2015-08",
+   "bulgaria": -0.8,
+   "eu": 0.3,
+   "bulgariaIndex": 100.41,
+   "euIndex": 100.08,
+   "food": 0.5,
+   "energy": 5.8,
+   "transport": -7.6
+  },
+  {
+   "month": "2015-09",
+   "bulgaria": -0.9,
+   "eu": 0.1,
+   "bulgariaIndex": 99.62,
+   "euIndex": 100.24,
+   "food": 1.2,
+   "energy": 5.8,
+   "transport": -9.3
+  },
+  {
+   "month": "2015-10",
+   "bulgaria": -1.2,
+   "eu": 0.3,
+   "bulgariaIndex": 99.46,
+   "euIndex": 100.35,
+   "food": 0.5,
+   "energy": -1.6,
+   "transport": -8.2
+  },
+  {
+   "month": "2015-11",
+   "bulgaria": -1,
+   "eu": 0.1,
+   "bulgariaIndex": 99.19,
+   "euIndex": 99.97,
+   "food": 0.6,
+   "energy": -2.5,
+   "transport": -7.2
+  },
+  {
+   "month": "2015-12",
+   "bulgaria": -0.9,
+   "eu": 0.2,
+   "bulgariaIndex": 99.6,
+   "euIndex": 99.97,
+   "food": 0.8,
+   "energy": -2.4,
+   "transport": -6.9
+  },
+  {
+   "month": "2016-01",
+   "bulgaria": -0.4,
+   "eu": 0.3,
+   "bulgariaIndex": 99.4,
+   "euIndex": 98.71,
+   "food": 0.7,
+   "energy": -2.4,
+   "transport": -3.2
+  },
+  {
+   "month": "2016-02",
+   "bulgaria": -1,
+   "eu": -0.2,
+   "bulgariaIndex": 98.89,
+   "euIndex": 98.85,
+   "food": -0.1,
+   "energy": -2.4,
+   "transport": -5.1
+  },
+  {
+   "month": "2016-03",
+   "bulgaria": -1.9,
+   "eu": -0.1,
+   "bulgariaIndex": 98.28,
+   "euIndex": 99.89,
+   "food": -0.9,
+   "energy": -2.5,
+   "transport": -8.3
+  },
+  {
+   "month": "2016-04",
+   "bulgaria": -2.5,
+   "eu": -0.3,
+   "bulgariaIndex": 98.12,
+   "euIndex": 100.12,
+   "food": -2.5,
+   "energy": -2.4,
+   "transport": -8.4
+  },
+  {
+   "month": "2016-05",
+   "bulgaria": -2.5,
+   "eu": -0.2,
+   "bulgariaIndex": 98.14,
+   "euIndex": 100.49,
+   "food": -1.5,
+   "energy": -2.4,
+   "transport": -9.1
+  },
+  {
+   "month": "2016-06",
+   "bulgaria": -1.9,
+   "eu": 0,
+   "bulgariaIndex": 98.27,
+   "euIndex": 100.65,
+   "food": -0.1,
+   "energy": -2.4,
+   "transport": -8.4
+  },
+  {
+   "month": "2016-07",
+   "bulgaria": -1.1,
+   "eu": 0.1,
+   "bulgariaIndex": 99.25,
+   "euIndex": 100.24,
+   "food": 2.2,
+   "energy": -2.1,
+   "transport": -7.3
+  },
+  {
+   "month": "2016-08",
+   "bulgaria": -1.1,
+   "eu": 0.2,
+   "bulgariaIndex": 99.29,
+   "euIndex": 100.25,
+   "food": 1.5,
+   "energy": -1.7,
+   "transport": -6.8
+  },
+  {
+   "month": "2016-09",
+   "bulgaria": -1.1,
+   "eu": 0.3,
+   "bulgariaIndex": 98.55,
+   "euIndex": 100.56,
+   "food": 0,
+   "energy": -1.7,
+   "transport": -3.8
+  },
+  {
+   "month": "2016-10",
+   "bulgaria": -1,
+   "eu": 0.5,
+   "bulgariaIndex": 98.46,
+   "euIndex": 100.82,
+   "food": 0.1,
+   "energy": -1.5,
+   "transport": -3.7
+  },
+  {
+   "month": "2016-11",
+   "bulgaria": -0.8,
+   "eu": 0.6,
+   "bulgariaIndex": 98.36,
+   "euIndex": 100.53,
+   "food": 0.1,
+   "energy": -1.1,
+   "transport": -2.8
+  },
+  {
+   "month": "2016-12",
+   "bulgaria": -0.5,
+   "eu": 1.1,
+   "bulgariaIndex": 99.1,
+   "euIndex": 101.04,
+   "food": 1.3,
+   "energy": -1.1,
+   "transport": -2.6
+  },
+  {
+   "month": "2017-01",
+   "bulgaria": 0.4,
+   "eu": 1.7,
+   "bulgariaIndex": 99.77,
+   "euIndex": 100.35,
+   "food": 3.6,
+   "energy": -0.5,
+   "transport": -1
+  },
+  {
+   "month": "2017-02",
+   "bulgaria": 0.9,
+   "eu": 1.9,
+   "bulgariaIndex": 99.8,
+   "euIndex": 100.75,
+   "food": 3.6,
+   "energy": -0.1,
+   "transport": 1.7
+  },
+  {
+   "month": "2017-03",
+   "bulgaria": 1,
+   "eu": 1.5,
+   "bulgariaIndex": 99.28,
+   "euIndex": 101.43,
+   "food": 3.8,
+   "energy": -0.2,
+   "transport": 1.9
+  },
+  {
+   "month": "2017-04",
+   "bulgaria": 1.6,
+   "eu": 1.9,
+   "bulgariaIndex": 99.74,
+   "euIndex": 101.97,
+   "food": 4.7,
+   "energy": 3.3,
+   "transport": 3.1
+  },
+  {
+   "month": "2017-05",
+   "bulgaria": 1.4,
+   "eu": 1.4,
+   "bulgariaIndex": 99.52,
+   "euIndex": 101.9,
+   "food": 4,
+   "energy": 3.4,
+   "transport": 1.6
+  },
+  {
+   "month": "2017-06",
+   "bulgaria": 1.1,
+   "eu": 1.3,
+   "bulgariaIndex": 99.35,
+   "euIndex": 101.97,
+   "food": 3.8,
+   "energy": 3.3,
+   "transport": -0.1
+  },
+  {
+   "month": "2017-07",
+   "bulgaria": 0.6,
+   "eu": 1.4,
+   "bulgariaIndex": 99.85,
+   "euIndex": 101.62,
+   "food": 2.3,
+   "energy": 4.5,
+   "transport": -1.6
+  },
+  {
+   "month": "2017-08",
+   "bulgaria": 0.7,
+   "eu": 1.6,
+   "bulgariaIndex": 100.03,
+   "euIndex": 101.81,
+   "food": 2.5,
+   "energy": 4.6,
+   "transport": -1.1
+  },
+  {
+   "month": "2017-09",
+   "bulgaria": 1.3,
+   "eu": 1.6,
+   "bulgariaIndex": 99.81,
+   "euIndex": 102.17,
+   "food": 3.5,
+   "energy": 4.9,
+   "transport": -0.1
+  },
+  {
+   "month": "2017-10",
+   "bulgaria": 1.5,
+   "eu": 1.5,
+   "bulgariaIndex": 99.94,
+   "euIndex": 102.29,
+   "food": 3.7,
+   "energy": 5.3,
+   "transport": 0
+  },
+  {
+   "month": "2017-11",
+   "bulgaria": 1.9,
+   "eu": 1.6,
+   "bulgariaIndex": 100.21,
+   "euIndex": 102.17,
+   "food": 4.2,
+   "energy": 6.1,
+   "transport": 1.2
+  },
+  {
+   "month": "2017-12",
+   "bulgaria": 1.8,
+   "eu": 1.4,
+   "bulgariaIndex": 100.88,
+   "euIndex": 102.49,
+   "food": 3.1,
+   "energy": 6,
+   "transport": 1.3
+  },
+  {
+   "month": "2018-01",
+   "bulgaria": 1.3,
+   "eu": 1.4,
+   "bulgariaIndex": 101.08,
+   "euIndex": 101.75,
+   "food": 0.8,
+   "energy": 5.5,
+   "transport": 0.8
+  },
+  {
+   "month": "2018-02",
+   "bulgaria": 1.5,
+   "eu": 1.2,
+   "bulgariaIndex": 101.31,
+   "euIndex": 101.94,
+   "food": 0.7,
+   "energy": 5.4,
+   "transport": 0.3
+  },
+  {
+   "month": "2018-03",
+   "bulgaria": 1.9,
+   "eu": 1.4,
+   "bulgariaIndex": 101.13,
+   "euIndex": 102.88,
+   "food": 0.9,
+   "energy": 5.5,
+   "transport": 1.1
+  },
+  {
+   "month": "2018-04",
+   "bulgaria": 1.7,
+   "eu": 1.3,
+   "bulgariaIndex": 101.45,
+   "euIndex": 103.32,
+   "food": 1,
+   "energy": 2.7,
+   "transport": 0
+  },
+  {
+   "month": "2018-05",
+   "bulgaria": 2.3,
+   "eu": 2,
+   "bulgariaIndex": 101.84,
+   "euIndex": 103.91,
+   "food": 1.7,
+   "energy": 2.6,
+   "transport": 3
+  },
+  {
+   "month": "2018-06",
+   "bulgaria": 3,
+   "eu": 2,
+   "bulgariaIndex": 102.34,
+   "euIndex": 104.03,
+   "food": 2.1,
+   "energy": 3,
+   "transport": 6
+  },
+  {
+   "month": "2018-07",
+   "bulgaria": 3.6,
+   "eu": 2.2,
+   "bulgariaIndex": 103.41,
+   "euIndex": 103.86,
+   "food": 2.2,
+   "energy": 3.8,
+   "transport": 6.6
+  },
+  {
+   "month": "2018-08",
+   "bulgaria": 3.7,
+   "eu": 2.1,
+   "bulgariaIndex": 103.75,
+   "euIndex": 103.97,
+   "food": 2.2,
+   "energy": 3.8,
+   "transport": 6.3
+  },
+  {
+   "month": "2018-09",
+   "bulgaria": 3.6,
+   "eu": 2.1,
+   "bulgariaIndex": 103.39,
+   "euIndex": 104.35,
+   "food": 2.6,
+   "energy": 3.8,
+   "transport": 6.1
+  },
+  {
+   "month": "2018-10",
+   "bulgaria": 3.6,
+   "eu": 2.3,
+   "bulgariaIndex": 103.55,
+   "euIndex": 104.62,
+   "food": 2.7,
+   "energy": 4.5,
+   "transport": 6
+  },
+  {
+   "month": "2018-11",
+   "bulgaria": 3,
+   "eu": 1.9,
+   "bulgariaIndex": 103.25,
+   "euIndex": 104.11,
+   "food": 2.2,
+   "energy": 5.1,
+   "transport": 2.8
+  },
+  {
+   "month": "2018-12",
+   "bulgaria": 2.3,
+   "eu": 1.6,
+   "bulgariaIndex": 103.21,
+   "euIndex": 104.08,
+   "food": 2.5,
+   "energy": 5.1,
+   "transport": -0.5
+  },
+  {
+   "month": "2019-01",
+   "bulgaria": 2.3,
+   "eu": 1.4,
+   "bulgariaIndex": 103.43,
+   "euIndex": 103.22,
+   "food": 3.3,
+   "energy": 5.2,
+   "transport": -1.9
+  },
+  {
+   "month": "2019-02",
+   "bulgaria": 2.4,
+   "eu": 1.6,
+   "bulgariaIndex": 103.73,
+   "euIndex": 103.57,
+   "food": 4.5,
+   "energy": 4.9,
+   "transport": -1.5
+  },
+  {
+   "month": "2019-03",
+   "bulgaria": 2.8,
+   "eu": 1.6,
+   "bulgariaIndex": 103.95,
+   "euIndex": 104.5,
+   "food": 5,
+   "energy": 5,
+   "transport": 0.3
+  },
+  {
+   "month": "2019-04",
+   "bulgaria": 3.1,
+   "eu": 1.9,
+   "bulgariaIndex": 104.6,
+   "euIndex": 105.26,
+   "food": 5.2,
+   "energy": 4.8,
+   "transport": 2.4
+  },
+  {
+   "month": "2019-05",
+   "bulgaria": 2.9,
+   "eu": 1.5,
+   "bulgariaIndex": 104.76,
+   "euIndex": 105.44,
+   "food": 5.3,
+   "energy": 4.8,
+   "transport": 0.9
+  },
+  {
+   "month": "2019-06",
+   "bulgaria": 2.3,
+   "eu": 1.5,
+   "bulgariaIndex": 104.73,
+   "euIndex": 105.57,
+   "food": 4.5,
+   "energy": 4.5,
+   "transport": -1
+  },
+  {
+   "month": "2019-07",
+   "bulgaria": 2.6,
+   "eu": 1.3,
+   "bulgariaIndex": 106.13,
+   "euIndex": 105.22,
+   "food": 4.7,
+   "energy": 4.3,
+   "transport": -0.2
+  },
+  {
+   "month": "2019-08",
+   "bulgaria": 2.5,
+   "eu": 1.3,
+   "bulgariaIndex": 106.33,
+   "euIndex": 105.31,
+   "food": 5.1,
+   "energy": 4.3,
+   "transport": -0.5
+  },
+  {
+   "month": "2019-09",
+   "bulgaria": 1.6,
+   "eu": 1.1,
+   "bulgariaIndex": 105.07,
+   "euIndex": 105.49,
+   "food": 4.3,
+   "energy": 4,
+   "transport": -2.7
+  },
+  {
+   "month": "2019-10",
+   "bulgaria": 1.6,
+   "eu": 1,
+   "bulgariaIndex": 105.23,
+   "euIndex": 105.67,
+   "food": 4.7,
+   "energy": 3.1,
+   "transport": -3.1
+  },
+  {
+   "month": "2019-11",
+   "bulgaria": 2.2,
+   "eu": 1.3,
+   "bulgariaIndex": 105.56,
+   "euIndex": 105.42,
+   "food": 5.8,
+   "energy": 2.2,
+   "transport": -0.9
+  },
+  {
+   "month": "2019-12",
+   "bulgaria": 3.1,
+   "eu": 1.6,
+   "bulgariaIndex": 106.41,
+   "euIndex": 105.76,
+   "food": 6.5,
+   "energy": 2,
+   "transport": 2.4
+  },
+  {
+   "month": "2020-01",
+   "bulgaria": 3.4,
+   "eu": 1.7,
+   "bulgariaIndex": 106.94,
+   "euIndex": 105,
+   "food": 7.5,
+   "energy": 1.9,
+   "transport": 3.6
+  },
+  {
+   "month": "2020-02",
+   "bulgaria": 3.1,
+   "eu": 1.6,
+   "bulgariaIndex": 106.95,
+   "euIndex": 105.22,
+   "food": 6.5,
+   "energy": 1.8,
+   "transport": 2.5
+  },
+  {
+   "month": "2020-03",
+   "bulgaria": 2.4,
+   "eu": 1.1,
+   "bulgariaIndex": 106.46,
+   "euIndex": 105.7,
+   "food": 6.6,
+   "energy": 1.7,
+   "transport": -0.9
+  },
+  {
+   "month": "2020-04",
+   "bulgaria": 1.3,
+   "eu": 0.6,
+   "bulgariaIndex": 106.01,
+   "euIndex": 105.93,
+   "food": 6.1,
+   "energy": -1.1,
+   "transport": -6.1
+  },
+  {
+   "month": "2020-05",
+   "bulgaria": 1,
+   "eu": 0.5,
+   "bulgariaIndex": 105.76,
+   "euIndex": 105.94,
+   "food": 6,
+   "energy": -1.4,
+   "transport": -8.3
+  },
+  {
+   "month": "2020-06",
+   "bulgaria": 0.9,
+   "eu": 0.7,
+   "bulgariaIndex": 105.69,
+   "euIndex": 106.31,
+   "food": 6.6,
+   "energy": -1.4,
+   "transport": -8.1
+  },
+  {
+   "month": "2020-07",
+   "bulgaria": 0.4,
+   "eu": 0.8,
+   "bulgariaIndex": 106.58,
+   "euIndex": 106.06,
+   "food": 5.1,
+   "energy": -0.8,
+   "transport": -8.8
+  },
+  {
+   "month": "2020-08",
+   "bulgaria": 0.7,
+   "eu": 0.4,
+   "bulgariaIndex": 107.01,
+   "euIndex": 105.69,
+   "food": 4.2,
+   "energy": -0.8,
+   "transport": -6.2
+  },
+  {
+   "month": "2020-09",
+   "bulgaria": 0.6,
+   "eu": 0.2,
+   "bulgariaIndex": 105.7,
+   "euIndex": 105.73,
+   "food": 4,
+   "energy": -0.5,
+   "transport": -6.5
+  },
+  {
+   "month": "2020-10",
+   "bulgaria": 0.6,
+   "eu": 0.2,
+   "bulgariaIndex": 105.87,
+   "euIndex": 105.92,
+   "food": 3.6,
+   "energy": -0.6,
+   "transport": -6.2
+  },
+  {
+   "month": "2020-11",
+   "bulgaria": 0.3,
+   "eu": 0.2,
+   "bulgariaIndex": 105.89,
+   "euIndex": 105.63,
+   "food": 2.8,
+   "energy": -0.3,
+   "transport": -6
+  },
+  {
+   "month": "2020-12",
+   "bulgaria": 0,
+   "eu": 0.2,
+   "bulgariaIndex": 106.43,
+   "euIndex": 105.97,
+   "food": 2,
+   "energy": -0.3,
+   "transport": -5.7
+  },
+  {
+   "month": "2021-01",
+   "bulgaria": -0.3,
+   "eu": 1.2,
+   "bulgariaIndex": 106.59,
+   "euIndex": 106.27,
+   "food": -0.1,
+   "energy": -0.2,
+   "transport": -4.6
+  },
+  {
+   "month": "2021-02",
+   "bulgaria": 0.2,
+   "eu": 1.3,
+   "bulgariaIndex": 107.16,
+   "euIndex": 106.55,
+   "food": 0.4,
+   "energy": 0.1,
+   "transport": -2.7
+  },
+  {
+   "month": "2021-03",
+   "bulgaria": 0.8,
+   "eu": 1.7,
+   "bulgariaIndex": 107.33,
+   "euIndex": 107.46,
+   "food": 0.2,
+   "energy": 0.2,
+   "transport": 1
+  },
+  {
+   "month": "2021-04",
+   "bulgaria": 1.9,
+   "eu": 2,
+   "bulgariaIndex": 108.08,
+   "euIndex": 108.08,
+   "food": 0.6,
+   "energy": 3.6,
+   "transport": 6.1
+  },
+  {
+   "month": "2021-05",
+   "bulgaria": 2.3,
+   "eu": 2.3,
+   "bulgariaIndex": 108.23,
+   "euIndex": 108.38,
+   "food": 0.9,
+   "energy": 3.8,
+   "transport": 8.1
+  },
+  {
+   "month": "2021-06",
+   "bulgaria": 2.4,
+   "eu": 2.2,
+   "bulgariaIndex": 108.2,
+   "euIndex": 108.65,
+   "food": 0.8,
+   "energy": 4.3,
+   "transport": 8.7
+  },
+  {
+   "month": "2021-07",
+   "bulgaria": 2.2,
+   "eu": 2.5,
+   "bulgariaIndex": 108.97,
+   "euIndex": 108.68,
+   "food": 1.8,
+   "energy": 5.6,
+   "transport": 10.6
+  },
+  {
+   "month": "2021-08",
+   "bulgaria": 2.5,
+   "eu": 3.2,
+   "bulgariaIndex": 109.73,
+   "euIndex": 109.04,
+   "food": 3.3,
+   "energy": 6.5,
+   "transport": 10.1
+  },
+  {
+   "month": "2021-09",
+   "bulgaria": 4,
+   "eu": 3.6,
+   "bulgariaIndex": 109.92,
+   "euIndex": 109.57,
+   "food": 4,
+   "energy": 7.7,
+   "transport": 11.6
+  },
+  {
+   "month": "2021-10",
+   "bulgaria": 5.2,
+   "eu": 4.4,
+   "bulgariaIndex": 111.35,
+   "euIndex": 110.54,
+   "food": 5.5,
+   "energy": 11.6,
+   "transport": 15
+  },
+  {
+   "month": "2021-11",
+   "bulgaria": 6.3,
+   "eu": 5.2,
+   "bulgariaIndex": 112.54,
+   "euIndex": 111.07,
+   "food": 6.8,
+   "energy": 13.6,
+   "transport": 17.5
+  },
+  {
+   "month": "2021-12",
+   "bulgaria": 6.6,
+   "eu": 5.3,
+   "bulgariaIndex": 113.44,
+   "euIndex": 111.59,
+   "food": 8.4,
+   "energy": 14.5,
+   "transport": 16
+  },
+  {
+   "month": "2022-01",
+   "bulgaria": 7.7,
+   "eu": 5.6,
+   "bulgariaIndex": 114.8,
+   "euIndex": 112.2,
+   "food": 10.6,
+   "energy": 17.2,
+   "transport": 15.5
+  },
+  {
+   "month": "2022-02",
+   "bulgaria": 8.4,
+   "eu": 6.2,
+   "bulgariaIndex": 116.16,
+   "euIndex": 113.18,
+   "food": 13,
+   "energy": 15.3,
+   "transport": 15.5
+  },
+  {
+   "month": "2022-03",
+   "bulgaria": 10.5,
+   "eu": 7.8,
+   "bulgariaIndex": 118.59,
+   "euIndex": 115.87,
+   "food": 16.5,
+   "energy": 16.4,
+   "transport": 20
+  },
+  {
+   "month": "2022-04",
+   "bulgaria": 12.1,
+   "eu": 8.1,
+   "bulgariaIndex": 121.12,
+   "euIndex": 116.83,
+   "food": 20.2,
+   "energy": 18.8,
+   "transport": 21.9
+  },
+  {
+   "month": "2022-05",
+   "bulgaria": 13.4,
+   "eu": 8.8,
+   "bulgariaIndex": 122.74,
+   "euIndex": 117.95,
+   "food": 22.1,
+   "energy": 21.2,
+   "transport": 25.1
+  },
+  {
+   "month": "2022-06",
+   "bulgaria": 14.8,
+   "eu": 9.6,
+   "bulgariaIndex": 124.16,
+   "euIndex": 119.03,
+   "food": 23.5,
+   "energy": 21.2,
+   "transport": 29
+  },
+  {
+   "month": "2022-07",
+   "bulgaria": 14.9,
+   "eu": 9.8,
+   "bulgariaIndex": 125.18,
+   "euIndex": 119.31,
+   "food": 23.9,
+   "energy": 24.3,
+   "transport": 25.4
+  },
+  {
+   "month": "2022-08",
+   "bulgaria": 15,
+   "eu": 10.1,
+   "bulgariaIndex": 126.2,
+   "euIndex": 120.1,
+   "food": 24.1,
+   "energy": 32.3,
+   "transport": 19.1
+  },
+  {
+   "month": "2022-09",
+   "bulgaria": 15.6,
+   "eu": 10.9,
+   "bulgariaIndex": 127.1,
+   "euIndex": 121.56,
+   "food": 25.2,
+   "energy": 37.7,
+   "transport": 16.7
+  },
+  {
+   "month": "2022-10",
+   "bulgaria": 14.8,
+   "eu": 11.5,
+   "bulgariaIndex": 127.87,
+   "euIndex": 123.26,
+   "food": 26.4,
+   "energy": 26.6,
+   "transport": 13.5
+  },
+  {
+   "month": "2022-11",
+   "bulgaria": 14.3,
+   "eu": 11.1,
+   "bulgariaIndex": 128.68,
+   "euIndex": 123.4,
+   "food": 26.7,
+   "energy": 19.1,
+   "transport": 11.4
+  },
+  {
+   "month": "2022-12",
+   "bulgaria": 14.3,
+   "eu": 10.4,
+   "bulgariaIndex": 129.69,
+   "euIndex": 123.18,
+   "food": 26,
+   "energy": 19.3,
+   "transport": 9.3
+  },
+  {
+   "month": "2023-01",
+   "bulgaria": 14.3,
+   "eu": 10,
+   "bulgariaIndex": 131.2,
+   "euIndex": 123.39,
+   "food": 25.2,
+   "energy": 17,
+   "transport": 10.2
+  },
+  {
+   "month": "2023-02",
+   "bulgaria": 13.7,
+   "eu": 9.9,
+   "bulgariaIndex": 132.12,
+   "euIndex": 124.43,
+   "food": 24.2,
+   "energy": 16.7,
+   "transport": 8.4
+  },
+  {
+   "month": "2023-03",
+   "bulgaria": 12.1,
+   "eu": 8.3,
+   "bulgariaIndex": 132.9,
+   "euIndex": 125.52,
+   "food": 21.5,
+   "energy": 14.6,
+   "transport": 1.9
+  },
+  {
+   "month": "2023-04",
+   "bulgaria": 10.3,
+   "eu": 8.1,
+   "bulgariaIndex": 133.63,
+   "euIndex": 126.3,
+   "food": 16.8,
+   "energy": 11.3,
+   "transport": -0.1
+  },
+  {
+   "month": "2023-05",
+   "bulgaria": 8.6,
+   "eu": 7.1,
+   "bulgariaIndex": 133.3,
+   "euIndex": 126.35,
+   "food": 14.9,
+   "energy": 8.6,
+   "transport": -5
+  },
+  {
+   "month": "2023-06",
+   "bulgaria": 7.5,
+   "eu": 6.4,
+   "bulgariaIndex": 133.45,
+   "euIndex": 126.69,
+   "food": 13.8,
+   "energy": 7.2,
+   "transport": -8.3
+  },
+  {
+   "month": "2023-07",
+   "bulgaria": 7.8,
+   "eu": 6.1,
+   "bulgariaIndex": 134.99,
+   "euIndex": 126.64,
+   "food": 13.6,
+   "energy": 3,
+   "transport": -7.2
+  },
+  {
+   "month": "2023-08",
+   "bulgaria": 7.5,
+   "eu": 5.9,
+   "bulgariaIndex": 135.61,
+   "euIndex": 127.24,
+   "food": 12.5,
+   "energy": -4.7,
+   "transport": -2.2
+  },
+  {
+   "month": "2023-09",
+   "bulgaria": 6.4,
+   "eu": 5,
+   "bulgariaIndex": 135.18,
+   "euIndex": 127.57,
+   "food": 10.8,
+   "energy": -9.7,
+   "transport": 2.6
+  },
+  {
+   "month": "2023-10",
+   "bulgaria": 5.9,
+   "eu": 3.6,
+   "bulgariaIndex": 135.44,
+   "euIndex": 127.73,
+   "food": 7.9,
+   "energy": -5.9,
+   "transport": 3.2
+  },
+  {
+   "month": "2023-11",
+   "bulgaria": 5.5,
+   "eu": 3.1,
+   "bulgariaIndex": 135.77,
+   "euIndex": 127.23,
+   "food": 6,
+   "energy": -0.6,
+   "transport": 3
+  },
+  {
+   "month": "2023-12",
+   "bulgaria": 5,
+   "eu": 3.4,
+   "bulgariaIndex": 136.16,
+   "euIndex": 127.42,
+   "food": 5.9,
+   "energy": -1.4,
+   "transport": 3
+  },
+  {
+   "month": "2024-01",
+   "bulgaria": 3.9,
+   "eu": 3.1,
+   "bulgariaIndex": 136.29,
+   "euIndex": 127.21,
+   "food": 5.1,
+   "energy": -2.1,
+   "transport": 0
+  },
+  {
+   "month": "2024-02",
+   "bulgaria": 3.5,
+   "eu": 2.8,
+   "bulgariaIndex": 136.72,
+   "euIndex": 127.94,
+   "food": 3.4,
+   "energy": -0.8,
+   "transport": 0.9
+  },
+  {
+   "month": "2024-03",
+   "bulgaria": 3.1,
+   "eu": 2.6,
+   "bulgariaIndex": 137.05,
+   "euIndex": 128.79,
+   "food": 2.3,
+   "energy": -0.7,
+   "transport": 2.2
+  },
+  {
+   "month": "2024-04",
+   "bulgaria": 2.5,
+   "eu": 2.6,
+   "bulgariaIndex": 136.93,
+   "euIndex": 129.55,
+   "food": 2.1,
+   "energy": -0.4,
+   "transport": 1.8
+  },
+  {
+   "month": "2024-05",
+   "bulgaria": 2.7,
+   "eu": 2.7,
+   "bulgariaIndex": 136.93,
+   "euIndex": 129.79,
+   "food": 1.5,
+   "energy": -0.4,
+   "transport": 3.9
+  },
+  {
+   "month": "2024-06",
+   "bulgaria": 2.8,
+   "eu": 2.6,
+   "bulgariaIndex": 137.15,
+   "euIndex": 130.02,
+   "food": 1.6,
+   "energy": 0.6,
+   "transport": 3.7
+  },
+  {
+   "month": "2024-07",
+   "bulgaria": 2.8,
+   "eu": 2.8,
+   "bulgariaIndex": 138.75,
+   "euIndex": 130.19,
+   "food": 1.9,
+   "energy": -1.1,
+   "transport": 4.7
+  },
+  {
+   "month": "2024-08",
+   "bulgaria": 2.4,
+   "eu": 2.4,
+   "bulgariaIndex": 138.83,
+   "euIndex": 130.33,
+   "food": 2.7,
+   "energy": -0.6,
+   "transport": 1.4
+  },
+  {
+   "month": "2024-09",
+   "bulgaria": 1.5,
+   "eu": 2.1,
+   "bulgariaIndex": 137.25,
+   "euIndex": 130.23,
+   "food": 2.5,
+   "energy": -0.8,
+   "transport": -3
+  },
+  {
+   "month": "2024-10",
+   "bulgaria": 2,
+   "eu": 2.3,
+   "bulgariaIndex": 138.14,
+   "euIndex": 130.7,
+   "food": 3.1,
+   "energy": -0.2,
+   "transport": -2.7
+  },
+  {
+   "month": "2024-11",
+   "bulgaria": 2,
+   "eu": 2.5,
+   "bulgariaIndex": 138.53,
+   "euIndex": 130.44,
+   "food": 4.3,
+   "energy": -2.2,
+   "transport": -2.6
+  },
+  {
+   "month": "2024-12",
+   "bulgaria": 2.1,
+   "eu": 2.7,
+   "bulgariaIndex": 138.99,
+   "euIndex": 130.84,
+   "food": 2.9,
+   "energy": -1.8,
+   "transport": 0.1
+  },
+  {
+   "month": "2025-01",
+   "bulgaria": 3.8,
+   "eu": 2.8,
+   "bulgariaIndex": 141.47,
+   "euIndex": 130.78,
+   "food": 4.6,
+   "energy": 3.5,
+   "transport": 3.5
+  },
+  {
+   "month": "2025-02",
+   "bulgaria": 3.9,
+   "eu": 2.7,
+   "bulgariaIndex": 142.09,
+   "euIndex": 131.37,
+   "food": 4.6,
+   "energy": 4.1,
+   "transport": 2.5
+  },
+  {
+   "month": "2025-03",
+   "bulgaria": 4,
+   "eu": 2.5,
+   "bulgariaIndex": 142.53,
+   "euIndex": 132.04,
+   "food": 5.5,
+   "energy": 4.7,
+   "transport": 1.5
+  },
+  {
+   "month": "2025-04",
+   "bulgaria": 2.8,
+   "eu": 2.4,
+   "bulgariaIndex": 140.76,
+   "euIndex": 132.68,
+   "food": 5.9,
+   "energy": 4.6,
+   "transport": -1.6
+  },
+  {
+   "month": "2025-05",
+   "bulgaria": 2.9,
+   "eu": 2.2,
+   "bulgariaIndex": 140.84,
+   "euIndex": 132.66,
+   "food": 6.7,
+   "energy": 4.5,
+   "transport": -2.7
+  },
+  {
+   "month": "2025-06",
+   "bulgaria": 3.1,
+   "eu": 2.3,
+   "bulgariaIndex": 141.44,
+   "euIndex": 133.05,
+   "food": 7.4,
+   "energy": 4.8,
+   "transport": -1.9
+  },
+  {
+   "month": "2025-07",
+   "bulgaria": 3.4,
+   "eu": 2.4,
+   "bulgariaIndex": 143.49,
+   "euIndex": 133.25,
+   "food": 7.5,
+   "energy": 6.8,
+   "transport": -2.1
+  },
+  {
+   "month": "2025-08",
+   "bulgaria": 3.5,
+   "eu": 2.4,
+   "bulgariaIndex": 143.68,
+   "euIndex": 133.49,
+   "food": 6.7,
+   "energy": 6.9,
+   "transport": -1.5
+  },
+  {
+   "month": "2025-09",
+   "bulgaria": 4,
+   "eu": 2.6,
+   "bulgariaIndex": 142.81,
+   "euIndex": 133.6,
+   "food": 6.2,
+   "energy": 7.1,
+   "transport": 0.7
+  },
+  {
+   "month": "2025-10",
+   "bulgaria": 3.8,
+   "eu": 2.5,
+   "bulgariaIndex": 143.42,
+   "euIndex": 133.93,
+   "food": 6.3,
+   "energy": 7.1,
+   "transport": 0.5
+  },
+  {
+   "month": "2025-11",
+   "bulgaria": 3.7,
+   "eu": 2.4,
+   "bulgariaIndex": 143.64,
+   "euIndex": 133.63,
+   "food": 5.4,
+   "energy": 7.6,
+   "transport": 0.6
+  },
+  {
+   "month": "2025-12",
+   "bulgaria": 3.5,
+   "eu": 2.3,
+   "bulgariaIndex": 143.83,
+   "euIndex": 133.83,
+   "food": 6,
+   "energy": 7,
+   "transport": -0.1
+  },
+  {
+   "month": "2026-01",
+   "bulgaria": 2.3,
+   "eu": 2,
+   "bulgariaIndex": 144.75,
+   "euIndex": 133.36,
+   "food": 4.3,
+   "energy": 2,
+   "transport": -1.6
+  },
+  {
+   "month": "2026-02",
+   "bulgaria": 2.1,
+   "eu": 2.1,
+   "bulgariaIndex": 145.04,
+   "euIndex": 134.17,
+   "food": 4.2,
+   "energy": 2,
+   "transport": -1.6
+  },
+  {
+   "month": "2026-03",
+   "bulgaria": 2.8,
+   "eu": 2.8,
+   "bulgariaIndex": 146.52,
+   "euIndex": 135.7,
+   "food": 3.9,
+   "energy": 2.4,
+   "transport": 2.7
+  },
+  {
+   "month": "2026-04",
+   "bulgaria": 6,
+   "eu": 3.2,
+   "bulgariaIndex": 149.18,
+   "euIndex": 136.94,
+   "food": 5.1,
+   "energy": 3.5,
+   "transport": 12.2
+  },
+  {
+   "month": "2026-05",
+   "bulgaria": 6.3,
+   "eu": 3.3,
+   "bulgariaIndex": 149.65,
+   "euIndex": 137.1,
+   "food": 4,
+   "energy": 4.3,
+   "transport": 14.6
+  },
+  {
+   "month": "2026-06",
+   "bulgaria": 5.2,
+   "eu": 2.9,
+   "bulgariaIndex": 148.86,
+   "euIndex": 136.96,
+   "food": 2.3,
+   "energy": 4.2,
+   "transport": 11
+  },
+  {
+   "month": "2026-07",
+   "bulgaria": 4.4,
+   "eu": 3,
+   "bulgariaIndex": 149.73,
+   "euIndex": 137.3,
+   "food": 1.2,
+   "energy": 4.3,
+   "transport": 9.4
+  },
+  {
+   "month": "2026-08",
+   "bulgaria": 5,
+   "eu": 3.2,
+   "bulgariaIndex": 150.94,
+   "euIndex": 137.82,
+   "food": 0.9,
+   "energy": 4.5,
+   "transport": 13.8
+  },
+  {
+   "month": "2026-09",
+   "bulgaria": 5.6,
+   "eu": null,
+   "bulgariaIndex": null,
+   "euIndex": null,
+   "food": null,
+   "energy": null,
+   "transport": null
+  }
+ ],
+ "annual": [
+  {
+   "year": 2015,
+   "bulgaria": -1.1,
+   "eu": 0.1,
+   "bulgariaIndex": 70.18,
+   "euIndex": 75.27
+  },
+  {
+   "year": 2016,
+   "bulgaria": -1.3,
+   "eu": 0.2,
+   "bulgariaIndex": 69.25,
+   "euIndex": 75.4
+  },
+  {
+   "year": 2017,
+   "bulgaria": 1.2,
+   "eu": 1.6,
+   "bulgariaIndex": 70.07,
+   "euIndex": 76.58
+  },
+  {
+   "year": 2018,
+   "bulgaria": 2.6,
+   "eu": 1.8,
+   "bulgariaIndex": 71.92,
+   "euIndex": 77.95
+  },
+  {
+   "year": 2019,
+   "bulgaria": 2.5,
+   "eu": 1.4,
+   "bulgariaIndex": 73.68,
+   "euIndex": 79.06
+  },
+  {
+   "year": 2020,
+   "bulgaria": 1.2,
+   "eu": 0.7,
+   "bulgariaIndex": 74.58,
+   "euIndex": 79.6
+  },
+  {
+   "year": 2021,
+   "bulgaria": 2.8,
+   "eu": 2.9,
+   "bulgariaIndex": 76.7,
+   "euIndex": 81.91
+  },
+  {
+   "year": 2022,
+   "bulgaria": 13,
+   "eu": 9.2,
+   "bulgariaIndex": 86.68,
+   "euIndex": 89.43
+  },
+  {
+   "year": 2023,
+   "bulgaria": 8.6,
+   "eu": 6.4,
+   "bulgariaIndex": 94.14,
+   "euIndex": 95.12
+  },
+  {
+   "year": 2024,
+   "bulgaria": 2.6,
+   "eu": 2.6,
+   "bulgariaIndex": 96.58,
+   "euIndex": 97.6
+  },
+  {
+   "year": 2025,
+   "bulgaria": 3.5,
+   "eu": 2.5,
+   "bulgariaIndex": 100,
+   "euIndex": 100
+  }
+ ],
+ "categories": [
+  {
+   "code": "CP01",
+   "name": {
+    "bg": "Храни и безалкохолни напитки",
+    "en": "Food and non-alcoholic beverages"
+   },
+   "since2019": 63.2,
+   "rate2022": 21.6,
+   "rateLatest": 6.1
+  },
+  {
+   "code": "CP11",
+   "name": {
+    "bg": "Ресторанти и хотели",
+    "en": "Restaurants and accommodation"
+   },
+   "since2019": 56.9,
+   "rate2022": 15.2,
+   "rateLatest": 8.4
+  },
+  {
+   "code": "CP09",
+   "name": {
+    "bg": "Отдих, спорт и култура",
+    "en": "Recreation, sport and culture"
+   },
+   "since2019": 52.6,
+   "rate2022": 11.2,
+   "rateLatest": 7.3
+  },
+  {
+   "code": "CP10",
+   "name": {
+    "bg": "Образование",
+    "en": "Education"
+   },
+   "since2019": 47,
+   "rate2022": 7.4,
+   "rateLatest": 7.7
+  },
+  {
+   "code": "CP04",
+   "name": {
+    "bg": "Жилище, вода, енергия и горива",
+    "en": "Housing, water, energy and fuels"
+   },
+   "since2019": 46.6,
+   "rate2022": 18.3,
+   "rateLatest": 7.1
+  },
+  {
+   "code": "CP12",
+   "name": {
+    "bg": "Застраховане и финансови услуги",
+    "en": "Insurance and financial services"
+   },
+   "since2019": 36.6,
+   "rate2022": 1.6,
+   "rateLatest": 0.3
+  },
+  {
+   "code": "CP13",
+   "name": {
+    "bg": "Лична грижа и други",
+    "en": "Personal care and miscellaneous"
+   },
+   "since2019": 36,
+   "rate2022": 7.5,
+   "rateLatest": 5.7
+  },
+  {
+   "code": "CP02",
+   "name": {
+    "bg": "Алкохол и тютюн",
+    "en": "Alcohol and tobacco"
+   },
+   "since2019": 27.6,
+   "rate2022": 3.3,
+   "rateLatest": 6.8
+  },
+  {
+   "code": "CP05",
+   "name": {
+    "bg": "Обзавеждане и поддръжка на дома",
+    "en": "Furnishings and household upkeep"
+   },
+   "since2019": 25.6,
+   "rate2022": 11.4,
+   "rateLatest": 0.3
+  },
+  {
+   "code": "CP07",
+   "name": {
+    "bg": "Транспорт",
+    "en": "Transport"
+   },
+   "since2019": 23.4,
+   "rate2022": 18.4,
+   "rateLatest": -0.1
+  },
+  {
+   "code": "CP06",
+   "name": {
+    "bg": "Здравеопазване",
+    "en": "Health"
+   },
+   "since2019": 17.6,
+   "rate2022": 3.2,
+   "rateLatest": -4.3
+  },
+  {
+   "code": "CP03",
+   "name": {
+    "bg": "Облекло и обувки",
+    "en": "Clothing and footwear"
+   },
+   "since2019": 10.7,
+   "rate2022": 6.7,
+   "rateLatest": 0.6
+  },
+  {
+   "code": "CP08",
+   "name": {
+    "bg": "Информация и комуникации",
+    "en": "Information and communication"
+   },
+   "since2019": -10.4,
+   "rate2022": -1.3,
+   "rateLatest": -1.1
+  }
+ ],
+ "categoriesLatestYear": 2025,
+ "weights": {
+  "year": 2026,
+  "rows": [
+   {
+    "code": "CP01",
+    "name": {
+     "bg": "Храни и безалкохолни напитки",
+     "en": "Food and non-alcoholic beverages"
+    },
+    "perMille": 223.23
+   },
+   {
+    "code": "CP07",
+    "name": {
+     "bg": "Транспорт",
+     "en": "Transport"
+    },
+    "perMille": 142.77
+   },
+   {
+    "code": "CP04",
+    "name": {
+     "bg": "Жилище, вода, енергия и горива",
+     "en": "Housing, water, energy and fuels"
+    },
+    "perMille": 99.36
+   },
+   {
+    "code": "CP11",
+    "name": {
+     "bg": "Ресторанти и хотели",
+     "en": "Restaurants and accommodation"
+    },
+    "perMille": 84.62
+   },
+   {
+    "code": "CP06",
+    "name": {
+     "bg": "Здравеопазване",
+     "en": "Health"
+    },
+    "perMille": 74.83
+   },
+   {
+    "code": "CP09",
+    "name": {
+     "bg": "Отдих, спорт и култура",
+     "en": "Recreation, sport and culture"
+    },
+    "perMille": 72.74
+   },
+   {
+    "code": "CP05",
+    "name": {
+     "bg": "Обзавеждане и поддръжка на дома",
+     "en": "Furnishings and household upkeep"
+    },
+    "perMille": 65.43
+   },
+   {
+    "code": "CP08",
+    "name": {
+     "bg": "Информация и комуникации",
+     "en": "Information and communication"
+    },
+    "perMille": 63.32
+   },
+   {
+    "code": "CP02",
+    "name": {
+     "bg": "Алкохол и тютюн",
+     "en": "Alcohol and tobacco"
+    },
+    "perMille": 59.19
+   },
+   {
+    "code": "CP13",
+    "name": {
+     "bg": "Лична грижа и други",
+     "en": "Personal care and miscellaneous"
+    },
+    "perMille": 44.23
+   },
+   {
+    "code": "CP03",
+    "name": {
+     "bg": "Облекло и обувки",
+     "en": "Clothing and footwear"
+    },
+    "perMille": 41.28
+   },
+   {
+    "code": "CP10",
+    "name": {
+     "bg": "Образование",
+     "en": "Education"
+    },
+    "perMille": 14.84
+   },
+   {
+    "code": "CP12",
+    "name": {
+     "bg": "Застраховане и финансови услуги",
+     "en": "Insurance and financial services"
+    },
+    "perMille": 14.15
+   }
+  ]
+ }
+}

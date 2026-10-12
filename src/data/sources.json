@@ -1,0 +1,207 @@
+{
+ "builtAt": "2026-10-12",
+ "conversionRate": 1.95583,
+ "list": [
+  {
+   "publisher": {
+    "bg": "НСИ",
+    "en": "NSI"
+   },
+   "title": {
+    "bg": "Наети лица и средна брутна заплата — тримесечни съобщения 2019–2026",
+    "en": "Employees and average wages and salaries — quarterly releases 2019–2026"
+   },
+   "url": "https://web.archive.org/web/20260516000344/https://www.nsi.bg/en/file/35635/employees_and_average_wages_and_salaries.pdf"
+  },
+  {
+   "publisher": {
+    "bg": "БТА (по данни на НСИ)",
+    "en": "BTA (citing NSI)"
+   },
+   "title": {
+    "bg": "Средна брутна заплата — II тримесечие 2026",
+    "en": "Average gross wage — Q2 2026"
+   },
+   "url": "https://www.bta.bg/en/news/economy/1183970-annual-wage-growth-in-bulgaria-slows-to-9-8-in-q2-average-wage-eur-1-444"
+  },
+  {
+   "publisher": {
+    "bg": "НСИ",
+    "en": "NSI"
+   },
+   "title": {
+    "bg": "Средна брутна месечна заплата по статистически райони и области (Labour_1.1.2.2, евро)",
+    "en": "Average gross monthly wages by statistical regions and districts (Labour_1.1.2.2, EUR)"
+   },
+   "url": "https://web.archive.org/web/2026/https://www.nsi.bg/sites/default/files/files/data/timeseries/Labour_1.1.2.2_EUR_EN.xlsx"
+  },
+  {
+   "publisher": {
+    "bg": "НСИ",
+    "en": "NSI"
+   },
+   "title": {
+    "bg": "Средна годишна заплата по икономически дейности (Labour_2.2.1)",
+    "en": "Average annual wages and salaries by economic activity (Labour_2.2.1)"
+   },
+   "url": "https://web.archive.org/web/2026/https://www.nsi.bg/sites/default/files/files/data/timeseries/Labour_2.2.1_EUR_EN.xlsx"
+  },
+  {
+   "publisher": {
+    "bg": "НСИ",
+    "en": "NSI"
+   },
+   "title": {
+    "bg": "Изследване на структурата на заплатите 2022 (Labour_4.2.2.1)",
+    "en": "Structure of Earnings Survey 2022 (Labour_4.2.2.1)"
+   },
+   "url": "https://web.archive.org/web/2026/https://www.nsi.bg/sites/default/files/files/data/timeseries/Labour_4.2.2.1_EUR_EN.xlsx"
+  },
+  {
+   "publisher": {
+    "bg": "НСИ",
+    "en": "NSI"
+   },
+   "title": {
+    "bg": "ТСБ на НСИ — тримесечни съобщения за област София (столица)",
+    "en": "NSI regional bureau — quarterly releases for Sofia (capital)"
+   },
+   "url": "https://www.nsi.bg/tsb/wp-content/uploads/2026/08/naeti-lica-sredna-rabotna-SOF-2026_1.pdf"
+  },
+  {
+   "publisher": {
+    "bg": "НСИ",
+    "en": "NSI"
+   },
+   "title": {
+    "bg": "Доходи, разходи и потребление на домакинствата — 2025",
+    "en": "Household income, expenditure and consumption — 2025"
+   },
+   "url": "https://web.archive.org/web/20260417113111/https://www.nsi.bg/en/file/34991/household_income_expenditure_and_consumption.pdf"
+  },
+  {
+   "publisher": {
+    "bg": "НСИ",
+    "en": "NSI"
+   },
+   "title": {
+    "bg": "Показатели за бедност и социално включване — 2025",
+    "en": "Poverty and social inclusion indicators — 2025"
+   },
+   "url": "https://web.archive.org/web/20260423091932/https://www.nsi.bg/en/file/35109/poverty_and_social_inclusion_indicators_EN.pdf"
+  },
+  {
+   "publisher": {
+    "bg": "НОИ",
+    "en": "NSSI"
+   },
+   "title": {
+    "bg": "Размер на осигурителните вноски и осигурителния доход по години",
+    "en": "Social security contribution rates and insurable income by year"
+   },
+   "url": "https://nssi.bg/wp-content/uploads/Samoosigureni.pdf"
+  },
+  {
+   "publisher": {
+    "bg": "Министерски съвет",
+    "en": "Council of Ministers"
+   },
+   "title": {
+    "bg": "Постановления за минималната работна заплата (сверени с Евростат earn_mw_cur)",
+    "en": "Decrees on the minimum wage (cross-checked with Eurostat earn_mw_cur)"
+   },
+   "url": "https://ec.europa.eu/eurostat/databrowser/view/earn_mw_cur/default/table"
+  },
+  {
+   "publisher": {
+    "bg": "Евростат",
+    "en": "Eurostat"
+   },
+   "title": {
+    "bg": "ХИПЦ — месечни изменения и индекси",
+    "en": "HICP — monthly rates of change and indices"
+   },
+   "code": "prc_hicp_minr",
+   "updated": "2026-10-02T11:00:00+0200",
+   "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table"
+  },
+  {
+   "publisher": {
+    "bg": "Евростат",
+    "en": "Eurostat"
+   },
+   "title": {
+    "bg": "ХИПЦ — годишни данни",
+    "en": "HICP — annual data"
+   },
+   "code": "prc_hicp_ainr",
+   "updated": "2026-09-17T11:00:00+0200",
+   "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_ainr/default/table"
+  },
+  {
+   "publisher": {
+    "bg": "Евростат",
+    "en": "Eurostat"
+   },
+   "title": {
+    "bg": "ХИПЦ — тегла на групите",
+    "en": "HICP — item weights"
+   },
+   "code": "prc_hicp_iw",
+   "updated": "2026-09-17T11:00:00+0200",
+   "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_iw/default/table"
+  },
+  {
+   "publisher": {
+    "bg": "Евростат",
+    "en": "Eurostat"
+   },
+   "title": {
+    "bg": "Паритети на покупателната способност и ценови равнища",
+    "en": "Purchasing power parities and price level indices"
+   },
+   "code": "prc_ppp_ind_1",
+   "updated": "2026-07-09T23:00:00+0200",
+   "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_ppp_ind_1/default/table"
+  },
+  {
+   "publisher": {
+    "bg": "Евростат",
+    "en": "Eurostat"
+   },
+   "title": {
+    "bg": "Минимални месечни заплати",
+    "en": "Monthly minimum wages"
+   },
+   "code": "earn_mw_cur",
+   "updated": "2026-07-31T11:00:00+0200",
+   "url": "https://ec.europa.eu/eurostat/databrowser/view/earn_mw_cur/default/table"
+  },
+  {
+   "publisher": {
+    "bg": "Евростат",
+    "en": "Eurostat"
+   },
+   "title": {
+    "bg": "Прагове на риска от бедност",
+    "en": "At-risk-of-poverty thresholds"
+   },
+   "code": "ilc_li01",
+   "updated": "2026-10-05T23:00:00+0200",
+   "url": "https://ec.europa.eu/eurostat/databrowser/view/ilc_li01/default/table"
+  },
+  {
+   "publisher": {
+    "bg": "Евростат",
+    "en": "Eurostat"
+   },
+   "title": {
+    "bg": "БВП по области (NUTS 3)",
+    "en": "GDP by NUTS 3 region"
+   },
+   "code": "nama_10r_3gdp",
+   "updated": "2026-02-10T11:00:00+0100",
+   "url": "https://ec.europa.eu/eurostat/databrowser/view/nama_10r_3gdp/default/table"
+  }
+ ]
+}

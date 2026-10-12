@@ -1,0 +1,774 @@
+{
+ "latestQuarter": "2026Q2",
+ "quarterly": [
+  {
+   "quarter": "2019Q1",
+   "bulgaria": 617.6,
+   "sofia": 854,
+   "minimum": 286.32,
+   "maxInsurable": 1533.88,
+   "topSector": 1498.1
+  },
+  {
+   "quarter": "2019Q2",
+   "bulgaria": 644.2,
+   "sofia": 889,
+   "minimum": 286.32,
+   "maxInsurable": 1533.88,
+   "topSector": 1561
+  },
+  {
+   "quarter": "2019Q3",
+   "bulgaria": 638.6,
+   "sofia": 872,
+   "minimum": 286.32,
+   "maxInsurable": 1533.88,
+   "topSector": 1527.7
+  },
+  {
+   "quarter": "2019Q4",
+   "bulgaria": 671.3,
+   "sofia": 915,
+   "minimum": 286.32,
+   "maxInsurable": 1533.88,
+   "topSector": 1579.9
+  },
+  {
+   "quarter": "2020Q1",
+   "bulgaria": 673.4,
+   "sofia": 936,
+   "minimum": 311.89,
+   "maxInsurable": 1533.88,
+   "topSector": 1654.5
+  },
+  {
+   "quarter": "2020Q2",
+   "bulgaria": 683.6,
+   "sofia": 937,
+   "minimum": 311.89,
+   "maxInsurable": 1533.88,
+   "topSector": 1671.9
+  },
+  {
+   "quarter": "2020Q3",
+   "bulgaria": 702,
+   "sofia": 954,
+   "minimum": 311.89,
+   "maxInsurable": 1533.88,
+   "topSector": 1640.2
+  },
+  {
+   "quarter": "2020Q4",
+   "bulgaria": 734.7,
+   "sofia": 1007,
+   "minimum": 311.89,
+   "maxInsurable": 1533.88,
+   "topSector": 1710.8
+  },
+  {
+   "quarter": "2021Q1",
+   "bulgaria": 747.5,
+   "sofia": 1031,
+   "minimum": 332.34,
+   "maxInsurable": 1533.88,
+   "topSector": 1847.3
+  },
+  {
+   "quarter": "2021Q2",
+   "bulgaria": 779.7,
+   "sofia": 1068,
+   "minimum": 332.34,
+   "maxInsurable": 1533.88,
+   "topSector": 1896.4
+  },
+  {
+   "quarter": "2021Q3",
+   "bulgaria": 777.2,
+   "sofia": 1066,
+   "minimum": 332.34,
+   "maxInsurable": 1533.88,
+   "topSector": 1885.1
+  },
+  {
+   "quarter": "2021Q4",
+   "bulgaria": 824.2,
+   "sofia": 1130,
+   "minimum": 332.34,
+   "maxInsurable": 1533.88,
+   "topSector": 1971.5
+  },
+  {
+   "quarter": "2022Q1",
+   "bulgaria": 814.5,
+   "sofia": 1138,
+   "minimum": 332.34,
+   "maxInsurable": 1533.88,
+   "topSector": 2075.8
+  },
+  {
+   "quarter": "2022Q2",
+   "bulgaria": 884.5,
+   "sofia": 1213,
+   "minimum": 363.02,
+   "maxInsurable": 1738.39,
+   "topSector": 2155.6
+  },
+  {
+   "quarter": "2022Q3",
+   "bulgaria": 891.2,
+   "sofia": 1224,
+   "minimum": 363.02,
+   "maxInsurable": 1738.39,
+   "topSector": 2142.8
+  },
+  {
+   "quarter": "2022Q4",
+   "bulgaria": 960.7,
+   "sofia": 1312,
+   "minimum": 363.02,
+   "maxInsurable": 1738.39,
+   "topSector": 2258.4
+  },
+  {
+   "quarter": "2023Q1",
+   "bulgaria": 962.3,
+   "sofia": 1331,
+   "minimum": 398.81,
+   "maxInsurable": 1738.39,
+   "topSector": 2340.7
+  },
+  {
+   "quarter": "2023Q2",
+   "bulgaria": 1000.6,
+   "sofia": 1379,
+   "minimum": 398.81,
+   "maxInsurable": 1738.39,
+   "topSector": 2419.4
+  },
+  {
+   "quarter": "2023Q3",
+   "bulgaria": 1022.6,
+   "sofia": 1392,
+   "minimum": 398.81,
+   "maxInsurable": 1738.39,
+   "topSector": 2387.7
+  },
+  {
+   "quarter": "2023Q4",
+   "bulgaria": 1085.5,
+   "sofia": 1483,
+   "minimum": 398.81,
+   "maxInsurable": 1738.39,
+   "topSector": 2480.8
+  },
+  {
+   "quarter": "2024Q1",
+   "bulgaria": 1123.8,
+   "sofia": 1553,
+   "minimum": 477.04,
+   "maxInsurable": 1917.34,
+   "topSector": 2685.3
+  },
+  {
+   "quarter": "2024Q2",
+   "bulgaria": 1173.9,
+   "sofia": 1600,
+   "minimum": 477.04,
+   "maxInsurable": 1917.34,
+   "topSector": 2640.3
+  },
+  {
+   "quarter": "2024Q3",
+   "bulgaria": 1163.2,
+   "sofia": 1585,
+   "minimum": 477.04,
+   "maxInsurable": 1917.34,
+   "topSector": 2621.4
+  },
+  {
+   "quarter": "2024Q4",
+   "bulgaria": 1233.7,
+   "sofia": 1681,
+   "minimum": 477.04,
+   "maxInsurable": 1917.34,
+   "topSector": 2712.4
+  },
+  {
+   "quarter": "2025Q1",
+   "bulgaria": 1249.1,
+   "sofia": 1731,
+   "minimum": 550.66,
+   "maxInsurable": 1917.34,
+   "topSector": 2934.3
+  },
+  {
+   "quarter": "2025Q2",
+   "bulgaria": 1315,
+   "sofia": 1784,
+   "minimum": 550.66,
+   "maxInsurable": 2111.64,
+   "topSector": 2838.2
+  },
+  {
+   "quarter": "2025Q3",
+   "bulgaria": 1303.3,
+   "sofia": 1776,
+   "minimum": 550.66,
+   "maxInsurable": 2111.64,
+   "topSector": 2818.2
+  },
+  {
+   "quarter": "2025Q4",
+   "bulgaria": 1369.2,
+   "sofia": 1858.5,
+   "minimum": 550.66,
+   "maxInsurable": 2111.64,
+   "topSector": 2934.3
+  },
+  {
+   "quarter": "2026Q1",
+   "bulgaria": 1407,
+   "sofia": 1915,
+   "minimum": 620.2,
+   "maxInsurable": 2111.64,
+   "topSector": 3176
+  },
+  {
+   "quarter": "2026Q2",
+   "bulgaria": 1444,
+   "sofia": 1943,
+   "minimum": 620.2,
+   "maxInsurable": 2111.64,
+   "topSector": 3079
+  }
+ ],
+ "annual": [
+  {
+   "year": 2015,
+   "averageMonthly": 448.9,
+   "minimum": 189.18,
+   "maxInsurable": 1329.36
+  },
+  {
+   "year": 2016,
+   "averageMonthly": 484.8,
+   "minimum": 214.74,
+   "maxInsurable": 1329.36
+  },
+  {
+   "year": 2017,
+   "averageMonthly": 530.4,
+   "minimum": 235.19,
+   "maxInsurable": 1329.36
+  },
+  {
+   "year": 2018,
+   "averageMonthly": 586.1,
+   "minimum": 260.76,
+   "maxInsurable": 1329.36
+  },
+  {
+   "year": 2019,
+   "averageMonthly": 648,
+   "minimum": 286.32,
+   "maxInsurable": 1533.88
+  },
+  {
+   "year": 2020,
+   "averageMonthly": 711,
+   "minimum": 311.89,
+   "maxInsurable": 1533.88
+  },
+  {
+   "year": 2021,
+   "averageMonthly": 798.2,
+   "minimum": 332.34,
+   "maxInsurable": 1533.88
+  },
+  {
+   "year": 2022,
+   "averageMonthly": 905.1,
+   "minimum": 355.35,
+   "maxInsurable": 1687.26
+  },
+  {
+   "year": 2023,
+   "averageMonthly": 1043.3,
+   "minimum": 398.81,
+   "maxInsurable": 1738.39
+  },
+  {
+   "year": 2024,
+   "averageMonthly": 1188.7,
+   "minimum": 477.04,
+   "maxInsurable": 1917.34
+  },
+  {
+   "year": 2025,
+   "averageMonthly": 1331,
+   "minimum": 550.66,
+   "maxInsurable": 2063.06
+  }
+ ],
+ "current": {
+  "date": "2026-10-01",
+  "minimum": 620.2,
+  "maxInsurable": 2300,
+  "maxInsurableBefore": 2111.64,
+  "maxInsurableChange": "2026-08-01"
+ },
+ "sofiaSectors": [
+  {
+   "quarter": "2026Q1",
+   "publicSector": 1763,
+   "privateSector": 1950
+  },
+  {
+   "quarter": "2026Q2",
+   "publicSector": 1833,
+   "privateSector": 1969
+  }
+ ],
+ "sectors": {
+  "period": "2026Q1",
+  "rows": [
+   {
+    "code": "J",
+    "name": {
+     "bg": "ИКТ и далекосъобщения",
+     "en": "Information and communication"
+    },
+    "average": 3176,
+    "employees": 130868
+   },
+   {
+    "code": "K",
+    "name": {
+     "bg": "Финанси и застраховане",
+     "en": "Finance and insurance"
+    },
+    "average": 2226,
+    "employees": 57833
+   },
+   {
+    "code": "D",
+    "name": {
+     "bg": "Енергетика",
+     "en": "Electricity, gas and steam"
+    },
+    "average": 2060,
+    "employees": 28496
+   },
+   {
+    "code": "M",
+    "name": {
+     "bg": "Професионални и научни дейности",
+     "en": "Professional and scientific"
+    },
+    "average": 1923,
+    "employees": 88860
+   },
+   {
+    "code": "B",
+    "name": {
+     "bg": "Добивна промишленост",
+     "en": "Mining and quarrying"
+    },
+    "average": 1713,
+    "employees": 17433
+   },
+   {
+    "code": "O",
+    "name": {
+     "bg": "Държавно управление",
+     "en": "Public administration"
+    },
+    "average": 1591,
+    "employees": 114572
+   },
+   {
+    "code": "P",
+    "name": {
+     "bg": "Образование",
+     "en": "Education"
+    },
+    "average": 1437,
+    "employees": 176203
+   },
+   {
+    "code": "Q",
+    "name": {
+     "bg": "Здравеопазване и социална работа",
+     "en": "Health and social work"
+    },
+    "average": 1382,
+    "employees": 214728
+   },
+   {
+    "code": "R",
+    "name": {
+     "bg": "Култура, спорт и развлечения",
+     "en": "Arts and recreation"
+    },
+    "average": 1260,
+    "employees": 40209
+   },
+   {
+    "code": "L",
+    "name": {
+     "bg": "Недвижими имоти",
+     "en": "Real estate"
+    },
+    "average": 1259,
+    "employees": 20938
+   },
+   {
+    "code": "G",
+    "name": {
+     "bg": "Търговия",
+     "en": "Wholesale and retail trade"
+    },
+    "average": 1220,
+    "employees": 392966
+   },
+   {
+    "code": "H",
+    "name": {
+     "bg": "Транспорт и складиране",
+     "en": "Transport and storage"
+    },
+    "average": 1214,
+    "employees": 143488
+   },
+   {
+    "code": "N",
+    "name": {
+     "bg": "Административни дейности",
+     "en": "Administrative and support"
+    },
+    "average": 1209,
+    "employees": 115617
+   },
+   {
+    "code": "C",
+    "name": {
+     "bg": "Преработваща промишленост",
+     "en": "Manufacturing"
+    },
+    "average": 1201,
+    "employees": 431654
+   },
+   {
+    "code": "F",
+    "name": {
+     "bg": "Строителство",
+     "en": "Construction"
+    },
+    "average": 1110,
+    "employees": 140260
+   },
+   {
+    "code": "E",
+    "name": {
+     "bg": "Води и отпадъци",
+     "en": "Water supply and waste"
+    },
+    "average": 1048,
+    "employees": 37219
+   },
+   {
+    "code": "S",
+    "name": {
+     "bg": "Други дейности",
+     "en": "Other services"
+    },
+    "average": 1014,
+    "employees": 38837
+   },
+   {
+    "code": "A",
+    "name": {
+     "bg": "Селско, горско и рибно стопанство",
+     "en": "Agriculture, forestry and fishing"
+    },
+    "average": 981,
+    "employees": 59507
+   },
+   {
+    "code": "I",
+    "name": {
+     "bg": "Хотели и ресторанти",
+     "en": "Accommodation and food"
+    },
+    "average": 870,
+    "employees": 107409
+   }
+  ],
+  "total": {
+   "average": 1407,
+   "employees": 2357098
+  }
+ },
+ "districts": {
+  "period": "2025Q3",
+  "national": 1303.3,
+  "rows": [
+   {
+    "id": "Sofia cap.",
+    "name": {
+     "bg": "София (столица)",
+     "en": "Sofia (capital)"
+    },
+    "average": 1776,
+    "sofiaCapital": true
+   },
+   {
+    "id": "Sofia",
+    "name": {
+     "bg": "София (област)",
+     "en": "Sofia (district)"
+    },
+    "average": 1187,
+    "sofiaCapital": false
+   },
+   {
+    "id": "Varna",
+    "name": {
+     "bg": "Варна",
+     "en": "Varna"
+    },
+    "average": 1181,
+    "sofiaCapital": false
+   },
+   {
+    "id": "Vratsa",
+    "name": {
+     "bg": "Враца",
+     "en": "Vratsa"
+    },
+    "average": 1153,
+    "sofiaCapital": false
+   },
+   {
+    "id": "Stara Zagora",
+    "name": {
+     "bg": "Стара Загора",
+     "en": "Stara Zagora"
+    },
+    "average": 1113,
+    "sofiaCapital": false
+   },
+   {
+    "id": "Plovdiv",
+    "name": {
+     "bg": "Пловдив",
+     "en": "Plovdiv"
+    },
+    "average": 1110,
+    "sofiaCapital": false
+   },
+   {
+    "id": "Ruse",
+    "name": {
+     "bg": "Русе",
+     "en": "Ruse"
+    },
+    "average": 1082,
+    "sofiaCapital": false
+   },
+   {
+    "id": "Pleven",
+    "name": {
+     "bg": "Плевен",
+     "en": "Pleven"
+    },
+    "average": 1068,
+    "sofiaCapital": false
+   },
+   {
+    "id": "Shumen",
+    "name": {
+     "bg": "Шумен",
+     "en": "Shumen"
+    },
+    "average": 1053,
+    "sofiaCapital": false
+   },
+   {
+    "id": "Targovishte",
+    "name": {
+     "bg": "Търговище",
+     "en": "Targovishte"
+    },
+    "average": 1037,
+    "sofiaCapital": false
+   },
+   {
+    "id": "Pernik",
+    "name": {
+     "bg": "Перник",
+     "en": "Pernik"
+    },
+    "average": 1025,
+    "sofiaCapital": false
+   },
+   {
+    "id": "Veliko Tarnovo",
+    "name": {
+     "bg": "Велико Търново",
+     "en": "Veliko Tarnovo"
+    },
+    "average": 1024,
+    "sofiaCapital": false
+   },
+   {
+    "id": "Burgas",
+    "name": {
+     "bg": "Бургас",
+     "en": "Burgas"
+    },
+    "average": 1023,
+    "sofiaCapital": false
+   },
+   {
+    "id": "Razgrad",
+    "name": {
+     "bg": "Разград",
+     "en": "Razgrad"
+    },
+    "average": 1016,
+    "sofiaCapital": false
+   },
+   {
+    "id": "Lovech",
+    "name": {
+     "bg": "Ловеч",
+     "en": "Lovech"
+    },
+    "average": 1010,
+    "sofiaCapital": false
+   },
+   {
+    "id": "Pazardzhik",
+    "name": {
+     "bg": "Пазарджик",
+     "en": "Pazardzhik"
+    },
+    "average": 1005,
+    "sofiaCapital": false
+   },
+   {
+    "id": "Gabrovo",
+    "name": {
+     "bg": "Габрово",
+     "en": "Gabrovo"
+    },
+    "average": 1004,
+    "sofiaCapital": false
+   },
+   {
+    "id": "Dobrich",
+    "name": {
+     "bg": "Добрич",
+     "en": "Dobrich"
+    },
+    "average": 994,
+    "sofiaCapital": false
+   },
+   {
+    "id": "Kardzhali",
+    "name": {
+     "bg": "Кърджали",
+     "en": "Kardzhali"
+    },
+    "average": 980,
+    "sofiaCapital": false
+   },
+   {
+    "id": "Yambol",
+    "name": {
+     "bg": "Ямбол",
+     "en": "Yambol"
+    },
+    "average": 977,
+    "sofiaCapital": false
+   },
+   {
+    "id": "Montana",
+    "name": {
+     "bg": "Монтана",
+     "en": "Montana"
+    },
+    "average": 969,
+    "sofiaCapital": false
+   },
+   {
+    "id": "Sliven",
+    "name": {
+     "bg": "Сливен",
+     "en": "Sliven"
+    },
+    "average": 964,
+    "sofiaCapital": false
+   },
+   {
+    "id": "Silistra",
+    "name": {
+     "bg": "Силистра",
+     "en": "Silistra"
+    },
+    "average": 950,
+    "sofiaCapital": false
+   },
+   {
+    "id": "Blagoevgrad",
+    "name": {
+     "bg": "Благоевград",
+     "en": "Blagoevgrad"
+    },
+    "average": 922,
+    "sofiaCapital": false
+   },
+   {
+    "id": "Haskovo",
+    "name": {
+     "bg": "Хасково",
+     "en": "Haskovo"
+    },
+    "average": 917,
+    "sofiaCapital": false
+   },
+   {
+    "id": "Smolyan",
+    "name": {
+     "bg": "Смолян",
+     "en": "Smolyan"
+    },
+    "average": 913,
+    "sofiaCapital": false
+   },
+   {
+    "id": "Vidin",
+    "name": {
+     "bg": "Видин",
+     "en": "Vidin"
+    },
+    "average": 912,
+    "sofiaCapital": false
+   },
+   {
+    "id": "Kyustendil",
+    "name": {
+     "bg": "Кюстендил",
+     "en": "Kyustendil"
+    },
+    "average": 901,
+    "sofiaCapital": false
+   }
+  ]
+ },
+ "distribution2022": {
+  "mean": 834,
+  "median": 585
+ }
+}

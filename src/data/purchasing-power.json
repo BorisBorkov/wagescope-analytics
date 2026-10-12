@@ -1,0 +1,1085 @@
+{
+ "realWages": [
+  {
+   "year": 2015,
+   "prices": 100,
+   "nominal": 100,
+   "real": 100,
+   "minimumNominal": 100,
+   "minimumReal": 100
+  },
+  {
+   "year": 2016,
+   "prices": 98.7,
+   "nominal": 108,
+   "real": 109.4,
+   "minimumNominal": 113.5,
+   "minimumReal": 115
+  },
+  {
+   "year": 2017,
+   "prices": 99.8,
+   "nominal": 118.2,
+   "real": 118.3,
+   "minimumNominal": 124.3,
+   "minimumReal": 124.5
+  },
+  {
+   "year": 2018,
+   "prices": 102.5,
+   "nominal": 130.6,
+   "real": 127.4,
+   "minimumNominal": 137.8,
+   "minimumReal": 134.5
+  },
+  {
+   "year": 2019,
+   "prices": 105,
+   "nominal": 144.4,
+   "real": 137.5,
+   "minimumNominal": 151.3,
+   "minimumReal": 144.2
+  },
+  {
+   "year": 2020,
+   "prices": 106.3,
+   "nominal": 158.4,
+   "real": 149,
+   "minimumNominal": 164.9,
+   "minimumReal": 155.1
+  },
+  {
+   "year": 2021,
+   "prices": 109.3,
+   "nominal": 177.8,
+   "real": 162.7,
+   "minimumNominal": 175.7,
+   "minimumReal": 160.7
+  },
+  {
+   "year": 2022,
+   "prices": 123.5,
+   "nominal": 201.6,
+   "real": 163.2,
+   "minimumNominal": 187.8,
+   "minimumReal": 152.1
+  },
+  {
+   "year": 2023,
+   "prices": 134.1,
+   "nominal": 232.4,
+   "real": 173.3,
+   "minimumNominal": 210.8,
+   "minimumReal": 157.2
+  },
+  {
+   "year": 2024,
+   "prices": 137.6,
+   "nominal": 264.8,
+   "real": 192.4,
+   "minimumNominal": 252.2,
+   "minimumReal": 183.2
+  },
+  {
+   "year": 2025,
+   "prices": 142.5,
+   "nominal": 296.5,
+   "real": 208.1,
+   "minimumNominal": 291.1,
+   "minimumReal": 204.3
+  }
+ ],
+ "realGrowthQuarterly": [
+  {
+   "quarter": "2020Q1",
+   "nominal": 9,
+   "inflation": 3,
+   "real": 5.9,
+   "sofiaReal": 6.4
+  },
+  {
+   "quarter": "2020Q2",
+   "nominal": 6.1,
+   "inflation": 1.1,
+   "real": 5,
+   "sofiaReal": 4.3
+  },
+  {
+   "quarter": "2020Q3",
+   "nominal": 9.9,
+   "inflation": 0.6,
+   "real": 9.3,
+   "sofiaReal": 8.8
+  },
+  {
+   "quarter": "2020Q4",
+   "nominal": 9.4,
+   "inflation": 0.3,
+   "real": 9.1,
+   "sofiaReal": 9.7
+  },
+  {
+   "quarter": "2021Q1",
+   "nominal": 11,
+   "inflation": 0.2,
+   "real": 10.8,
+   "sofiaReal": 9.9
+  },
+  {
+   "quarter": "2021Q2",
+   "nominal": 14.1,
+   "inflation": 2.2,
+   "real": 11.6,
+   "sofiaReal": 11.5
+  },
+  {
+   "quarter": "2021Q3",
+   "nominal": 10.7,
+   "inflation": 2.9,
+   "real": 7.6,
+   "sofiaReal": 8.6
+  },
+  {
+   "quarter": "2021Q4",
+   "nominal": 12.2,
+   "inflation": 6,
+   "real": 5.8,
+   "sofiaReal": 5.8
+  },
+  {
+   "quarter": "2022Q1",
+   "nominal": 9,
+   "inflation": 8.9,
+   "real": 0.1,
+   "sofiaReal": 1.4
+  },
+  {
+   "quarter": "2022Q2",
+   "nominal": 13.4,
+   "inflation": 13.4,
+   "real": 0,
+   "sofiaReal": 0.1
+  },
+  {
+   "quarter": "2022Q3",
+   "nominal": 14.7,
+   "inflation": 15.2,
+   "real": -0.4,
+   "sofiaReal": -0.3
+  },
+  {
+   "quarter": "2022Q4",
+   "nominal": 16.6,
+   "inflation": 14.5,
+   "real": 1.8,
+   "sofiaReal": 1.4
+  },
+  {
+   "quarter": "2023Q1",
+   "nominal": 18.1,
+   "inflation": 13.4,
+   "real": 4.2,
+   "sofiaReal": 3.2
+  },
+  {
+   "quarter": "2023Q2",
+   "nominal": 13.1,
+   "inflation": 8.8,
+   "real": 4,
+   "sofiaReal": 4.5
+  },
+  {
+   "quarter": "2023Q3",
+   "nominal": 14.7,
+   "inflation": 7.2,
+   "real": 7,
+   "sofiaReal": 6.1
+  },
+  {
+   "quarter": "2023Q4",
+   "nominal": 13,
+   "inflation": 5.5,
+   "real": 7.1,
+   "sofiaReal": 7.2
+  },
+  {
+   "quarter": "2024Q1",
+   "nominal": 16.8,
+   "inflation": 3.5,
+   "real": 12.8,
+   "sofiaReal": 12.7
+  },
+  {
+   "quarter": "2024Q2",
+   "nominal": 17.3,
+   "inflation": 2.7,
+   "real": 14.3,
+   "sofiaReal": 13
+  },
+  {
+   "quarter": "2024Q3",
+   "nominal": 13.7,
+   "inflation": 2.2,
+   "real": 11.3,
+   "sofiaReal": 11.4
+  },
+  {
+   "quarter": "2024Q4",
+   "nominal": 13.7,
+   "inflation": 2,
+   "real": 11.4,
+   "sofiaReal": 11.1
+  },
+  {
+   "quarter": "2025Q1",
+   "nominal": 11.1,
+   "inflation": 3.9,
+   "real": 7,
+   "sofiaReal": 7.3
+  },
+  {
+   "quarter": "2025Q2",
+   "nominal": 12,
+   "inflation": 2.9,
+   "real": 8.8,
+   "sofiaReal": 8.3
+  },
+  {
+   "quarter": "2025Q3",
+   "nominal": 12,
+   "inflation": 3.7,
+   "real": 8.1,
+   "sofiaReal": 8.1
+  },
+  {
+   "quarter": "2025Q4",
+   "nominal": 11,
+   "inflation": 3.7,
+   "real": 7.1,
+   "sofiaReal": 6.7
+  },
+  {
+   "quarter": "2026Q1",
+   "nominal": 12.6,
+   "inflation": 2.4,
+   "real": 10,
+   "sofiaReal": 8
+  },
+  {
+   "quarter": "2026Q2",
+   "nominal": 9.8,
+   "inflation": 5.8,
+   "real": 3.8,
+   "sofiaReal": 2.9
+  }
+ ],
+ "euComparison": {
+  "year": 2025,
+  "bulgaria": [
+   {
+    "year": 2015,
+    "consumption": 55,
+    "gdp": 49,
+    "priceLevel": 44.8
+   },
+   {
+    "year": 2016,
+    "consumption": 56,
+    "gdp": 51,
+    "priceLevel": 45.1
+   },
+   {
+    "year": 2017,
+    "consumption": 57,
+    "gdp": 52,
+    "priceLevel": 46.7
+   },
+   {
+    "year": 2018,
+    "consumption": 58,
+    "gdp": 53,
+    "priceLevel": 47.6
+   },
+   {
+    "year": 2019,
+    "consumption": 60,
+    "gdp": 55,
+    "priceLevel": 49.4
+   },
+   {
+    "year": 2020,
+    "consumption": 62,
+    "gdp": 57,
+    "priceLevel": 51.3
+   },
+   {
+    "year": 2021,
+    "consumption": 67,
+    "gdp": 59,
+    "priceLevel": 51.6
+   },
+   {
+    "year": 2022,
+    "consumption": 68,
+    "gdp": 62,
+    "priceLevel": 55
+   },
+   {
+    "year": 2023,
+    "consumption": 70,
+    "gdp": 63,
+    "priceLevel": 56.1
+   },
+   {
+    "year": 2024,
+    "consumption": 73,
+    "gdp": 66,
+    "priceLevel": 57.7
+   },
+   {
+    "year": 2025,
+    "consumption": 77,
+    "gdp": 68,
+    "priceLevel": 60
+   }
+  ],
+  "countries": [
+   {
+    "geo": "LV",
+    "name": {
+     "bg": "Латвия",
+     "en": "Latvia"
+    },
+    "consumption": 73,
+    "priceLevel": 80.6
+   },
+   {
+    "geo": "HU",
+    "name": {
+     "bg": "Унгария",
+     "en": "Hungary"
+    },
+    "consumption": 73,
+    "priceLevel": 71.6
+   },
+   {
+    "geo": "EE",
+    "name": {
+     "bg": "Естония",
+     "en": "Estonia"
+    },
+    "consumption": 74,
+    "priceLevel": 97.8
+   },
+   {
+    "geo": "BG",
+    "name": {
+     "bg": "България",
+     "en": "Bulgaria"
+    },
+    "consumption": 77,
+    "priceLevel": 60
+   },
+   {
+    "geo": "SK",
+    "name": {
+     "bg": "Словакия",
+     "en": "Slovakia"
+    },
+    "consumption": 77,
+    "priceLevel": 81.4
+   },
+   {
+    "geo": "HR",
+    "name": {
+     "bg": "Хърватия",
+     "en": "Croatia"
+    },
+    "consumption": 79,
+    "priceLevel": 76.3
+   },
+   {
+    "geo": "EL",
+    "name": {
+     "bg": "Гърция",
+     "en": "Greece"
+    },
+    "consumption": 80,
+    "priceLevel": 84
+   },
+   {
+    "geo": "CZ",
+    "name": {
+     "bg": "Чехия",
+     "en": "Czechia"
+    },
+    "consumption": 83,
+    "priceLevel": 82
+   },
+   {
+    "geo": "PT",
+    "name": {
+     "bg": "Португалия",
+     "en": "Portugal"
+    },
+    "consumption": 86,
+    "priceLevel": 85.3
+   },
+   {
+    "geo": "RO",
+    "name": {
+     "bg": "Румъния",
+     "en": "Romania"
+    },
+    "consumption": 86,
+    "priceLevel": 58.9
+   },
+   {
+    "geo": "SI",
+    "name": {
+     "bg": "Словения",
+     "en": "Slovenia"
+    },
+    "consumption": 86,
+    "priceLevel": 91.1
+   },
+   {
+    "geo": "LT",
+    "name": {
+     "bg": "Литва",
+     "en": "Lithuania"
+    },
+    "consumption": 87,
+    "priceLevel": 81.4
+   },
+   {
+    "geo": "MT",
+    "name": {
+     "bg": "Малта",
+     "en": "Malta"
+    },
+    "consumption": 88,
+    "priceLevel": 95.8
+   },
+   {
+    "geo": "PL",
+    "name": {
+     "bg": "Полша",
+     "en": "Poland"
+    },
+    "consumption": 88,
+    "priceLevel": 71.1
+   },
+   {
+    "geo": "ES",
+    "name": {
+     "bg": "Испания",
+     "en": "Spain"
+    },
+    "consumption": 92,
+    "priceLevel": 91.1
+   },
+   {
+    "geo": "IT",
+    "name": {
+     "bg": "Италия",
+     "en": "Italy"
+    },
+    "consumption": 97,
+    "priceLevel": 98
+   },
+   {
+    "geo": "CY",
+    "name": {
+     "bg": "Кипър",
+     "en": "Cyprus"
+    },
+    "consumption": 98,
+    "priceLevel": 91.6
+   },
+   {
+    "geo": "FI",
+    "name": {
+     "bg": "Финландия",
+     "en": "Finland"
+    },
+    "consumption": 99,
+    "priceLevel": 126.1
+   },
+   {
+    "geo": "EU27_2020",
+    "name": {
+     "bg": "ЕС-27",
+     "en": "EU-27"
+    },
+    "consumption": 100,
+    "priceLevel": 100
+   },
+   {
+    "geo": "IE",
+    "name": {
+     "bg": "Ирландия",
+     "en": "Ireland"
+    },
+    "consumption": 100,
+    "priceLevel": 139.6
+   },
+   {
+    "geo": "FR",
+    "name": {
+     "bg": "Франция",
+     "en": "France"
+    },
+    "consumption": 103,
+    "priceLevel": 106.4
+   },
+   {
+    "geo": "SE",
+    "name": {
+     "bg": "Швеция",
+     "en": "Sweden"
+    },
+    "consumption": 103,
+    "priceLevel": 128.4
+   },
+   {
+    "geo": "DK",
+    "name": {
+     "bg": "Дания",
+     "en": "Denmark"
+    },
+    "consumption": 106,
+    "priceLevel": 140.2
+   },
+   {
+    "geo": "BE",
+    "name": {
+     "bg": "Белгия",
+     "en": "Belgium"
+    },
+    "consumption": 113,
+    "priceLevel": 118.1
+   },
+   {
+    "geo": "AT",
+    "name": {
+     "bg": "Австрия",
+     "en": "Austria"
+    },
+    "consumption": 113,
+    "priceLevel": 119
+   },
+   {
+    "geo": "NL",
+    "name": {
+     "bg": "Нидерландия",
+     "en": "Netherlands"
+    },
+    "consumption": 119,
+    "priceLevel": 120.4
+   },
+   {
+    "geo": "DE",
+    "name": {
+     "bg": "Германия",
+     "en": "Germany"
+    },
+    "consumption": 120,
+    "priceLevel": 109.1
+   },
+   {
+    "geo": "LU",
+    "name": {
+     "bg": "Люксембург",
+     "en": "Luxembourg"
+    },
+    "consumption": 145,
+    "priceLevel": 148
+   }
+  ]
+ },
+ "minimumWageEU": {
+  "period": "2026-S1",
+  "rows": [
+   {
+    "geo": "BG",
+    "name": {
+     "bg": "България",
+     "en": "Bulgaria"
+    },
+    "eur": 620,
+    "pps": 993
+   },
+   {
+    "geo": "LV",
+    "name": {
+     "bg": "Латвия",
+     "en": "Latvia"
+    },
+    "eur": 780,
+    "pps": 938
+   },
+   {
+    "geo": "RO",
+    "name": {
+     "bg": "Румъния",
+     "en": "Romania"
+    },
+    "eur": 795,
+    "pps": 1233
+   },
+   {
+    "geo": "HU",
+    "name": {
+     "bg": "Унгария",
+     "en": "Hungary"
+    },
+    "eur": 838,
+    "pps": 1048
+   },
+   {
+    "geo": "EE",
+    "name": {
+     "bg": "Естония",
+     "en": "Estonia"
+    },
+    "eur": 886,
+    "pps": 876
+   },
+   {
+    "geo": "SK",
+    "name": {
+     "bg": "Словакия",
+     "en": "Slovakia"
+    },
+    "eur": 915,
+    "pps": 1074
+   },
+   {
+    "geo": "CZ",
+    "name": {
+     "bg": "Чехия",
+     "en": "Czechia"
+    },
+    "eur": 924,
+    "pps": 1015
+   },
+   {
+    "geo": "MT",
+    "name": {
+     "bg": "Малта",
+     "en": "Malta"
+    },
+    "eur": 994,
+    "pps": 1081
+   },
+   {
+    "geo": "EL",
+    "name": {
+     "bg": "Гърция",
+     "en": "Greece"
+    },
+    "eur": 1027,
+    "pps": 1175
+   },
+   {
+    "geo": "HR",
+    "name": {
+     "bg": "Хърватия",
+     "en": "Croatia"
+    },
+    "eur": 1050,
+    "pps": 1339
+   },
+   {
+    "geo": "PT",
+    "name": {
+     "bg": "Португалия",
+     "en": "Portugal"
+    },
+    "eur": 1073,
+    "pps": 1240
+   },
+   {
+    "geo": "CY",
+    "name": {
+     "bg": "Кипър",
+     "en": "Cyprus"
+    },
+    "eur": 1088,
+    "pps": 1220
+   },
+   {
+    "geo": "PL",
+    "name": {
+     "bg": "Полша",
+     "en": "Poland"
+    },
+    "eur": 1139,
+    "pps": 1547
+   },
+   {
+    "geo": "LT",
+    "name": {
+     "bg": "Литва",
+     "en": "Lithuania"
+    },
+    "eur": 1153,
+    "pps": 1393
+   },
+   {
+    "geo": "ES",
+    "name": {
+     "bg": "Испания",
+     "en": "Spain"
+    },
+    "eur": 1425,
+    "pps": 1556
+   },
+   {
+    "geo": "SI",
+    "name": {
+     "bg": "Словения",
+     "en": "Slovenia"
+    },
+    "eur": 1482,
+    "pps": 1660
+   },
+   {
+    "geo": "FR",
+    "name": {
+     "bg": "Франция",
+     "en": "France"
+    },
+    "eur": 1823,
+    "pps": 1652
+   },
+   {
+    "geo": "BE",
+    "name": {
+     "bg": "Белгия",
+     "en": "Belgium"
+    },
+    "eur": 2112,
+    "pps": 1817
+   },
+   {
+    "geo": "NL",
+    "name": {
+     "bg": "Нидерландия",
+     "en": "Netherlands"
+    },
+    "eur": 2295,
+    "pps": 1986
+   },
+   {
+    "geo": "DE",
+    "name": {
+     "bg": "Германия",
+     "en": "Germany"
+    },
+    "eur": 2343,
+    "pps": 2164
+   },
+   {
+    "geo": "IE",
+    "name": {
+     "bg": "Ирландия",
+     "en": "Ireland"
+    },
+    "eur": 2391,
+    "pps": 1756
+   },
+   {
+    "geo": "LU",
+    "name": {
+     "bg": "Люксембург",
+     "en": "Luxembourg"
+    },
+    "eur": 2704,
+    "pps": 2056
+   }
+  ]
+ },
+ "poverty": [
+  {
+   "year": 2015,
+   "line": 166.6,
+   "minimum": 189.18,
+   "average": 448.9,
+   "rate": null
+  },
+  {
+   "year": 2016,
+   "line": 157.6,
+   "minimum": 214.74,
+   "average": 484.8,
+   "rate": null
+  },
+  {
+   "year": 2017,
+   "line": 179.5,
+   "minimum": 235.19,
+   "average": 530.4,
+   "rate": null
+  },
+  {
+   "year": 2018,
+   "line": 179.5,
+   "minimum": 260.76,
+   "average": 586.1,
+   "rate": null
+  },
+  {
+   "year": 2019,
+   "line": 211.2,
+   "minimum": 286.32,
+   "average": 648,
+   "rate": null
+  },
+  {
+   "year": 2020,
+   "line": 230.6,
+   "minimum": 311.89,
+   "average": 711,
+   "rate": null
+  },
+  {
+   "year": 2021,
+   "line": 257.8,
+   "minimum": 332.34,
+   "average": 798.2,
+   "rate": 22.1
+  },
+  {
+   "year": 2022,
+   "line": 268.9,
+   "minimum": 355.35,
+   "average": 905.1,
+   "rate": 22.9
+  },
+  {
+   "year": 2023,
+   "line": 326.2,
+   "minimum": 398.81,
+   "average": 1043.3,
+   "rate": 20.6
+  },
+  {
+   "year": 2024,
+   "line": 390.5,
+   "minimum": 477.04,
+   "average": 1188.7,
+   "rate": 21.7
+  },
+  {
+   "year": 2025,
+   "line": 443.1,
+   "minimum": 550.66,
+   "average": 1331,
+   "rate": 21.2
+  }
+ ],
+ "inWorkPoverty2025": 11.8,
+ "household": {
+  "year": 2025,
+  "spending": [
+   {
+    "key": "food",
+    "name": {
+     "bg": "Храна и безалкохолни напитки",
+     "en": "Food and soft drinks"
+    },
+    "perYear": 1898.4,
+    "share": 36.5
+   },
+   {
+    "key": "housing",
+    "name": {
+     "bg": "Жилище и сметки",
+     "en": "Housing and utilities"
+    },
+    "perYear": 997,
+    "share": 19.2
+   },
+   {
+    "key": "transportCommunication",
+    "name": {
+     "bg": "Транспорт и комуникации",
+     "en": "Transport and communication"
+    },
+    "perYear": 722.5,
+    "share": 13.9
+   },
+   {
+    "key": "recreationEducation",
+    "name": {
+     "bg": "Отдих, култура, образование",
+     "en": "Recreation, culture, education"
+    },
+    "perYear": 419.3,
+    "share": 8.1
+   },
+   {
+    "key": "health",
+    "name": {
+     "bg": "Здраве",
+     "en": "Health"
+    },
+    "perYear": 361.5,
+    "share": 6.9
+   },
+   {
+    "key": "other",
+    "name": {
+     "bg": "Други (облекло, алкохол, тютюн, разни)",
+     "en": "Other (clothing, alcohol, tobacco, misc.)"
+    },
+    "perYear": 805.3,
+    "share": 15.5
+   }
+  ],
+  "income": [
+   {
+    "key": "wages",
+    "name": {
+     "bg": "Заплати",
+     "en": "Wages"
+    },
+    "perYear": 4208.4,
+    "share": 57.2
+   },
+   {
+    "key": "pensions",
+    "name": {
+     "bg": "Пенсии",
+     "en": "Pensions"
+    },
+    "perYear": 2159.7,
+    "share": 29.3
+   },
+   {
+    "key": "selfEmployment",
+    "name": {
+     "bg": "Самостоятелна заетост",
+     "en": "Self-employment"
+    },
+    "perYear": 548.1,
+    "share": 7.4
+   },
+   {
+    "key": "socialBenefits",
+    "name": {
+     "bg": "Социални помощи",
+     "en": "Social benefits"
+    },
+    "perYear": 125.3,
+    "share": 1.7
+   },
+   {
+    "key": "other",
+    "name": {
+     "bg": "Други",
+     "en": "Other"
+    },
+    "perYear": 322.1,
+    "share": 4.4
+   }
+  ],
+  "taxesShareOfExpenditure": 15.4,
+  "realIncomeIndex": [
+   {
+    "year": 2016,
+    "index": 100
+   },
+   {
+    "year": 2017,
+    "index": 105.9
+   },
+   {
+    "year": 2018,
+    "index": 110.9
+   },
+   {
+    "year": 2019,
+    "index": 117.9
+   },
+   {
+    "year": 2020,
+    "index": 123.2
+   },
+   {
+    "year": 2021,
+    "index": 131.2
+   },
+   {
+    "year": 2022,
+    "index": 133
+   },
+   {
+    "year": 2023,
+    "index": 146.3
+   },
+   {
+    "year": 2024,
+    "index": 169.4
+   },
+   {
+    "year": 2025,
+    "index": 181.4
+   }
+  ]
+ },
+ "regionalGdp": [
+  {
+   "year": 2015,
+   "bulgaria": 49,
+   "sofia": 114
+  },
+  {
+   "year": 2016,
+   "bulgaria": 51,
+   "sofia": 115
+  },
+  {
+   "year": 2017,
+   "bulgaria": 52,
+   "sofia": 115
+  },
+  {
+   "year": 2018,
+   "bulgaria": 53,
+   "sofia": 116
+  },
+  {
+   "year": 2019,
+   "bulgaria": 55,
+   "sofia": 124
+  },
+  {
+   "year": 2020,
+   "bulgaria": 57,
+   "sofia": 126
+  },
+  {
+   "year": 2021,
+   "bulgaria": 59,
+   "sofia": 130
+  },
+  {
+   "year": 2022,
+   "bulgaria": 62,
+   "sofia": 129
+  },
+  {
+   "year": 2023,
+   "bulgaria": 63,
+   "sofia": 136
+  },
+  {
+   "year": 2024,
+   "bulgaria": 66,
+   "sofia": 143
+  }
+ ]
+}

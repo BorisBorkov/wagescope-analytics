@@ -1,0 +1,368 @@
+{
+ "title": "Average gross monthly wages and salaries of employees under labour contract — Bulgaria, by quarter",
+ "publisher": "National Statistical Institute (NSI), quarterly press releases \"Employees and average wages and salaries\"",
+ "note": "Values transcribed from the PDF releases (Annex table 2, \"Total\" row = the three monthly averages; quarterAverage = headline value in the release text; ictAverage = sector \"Information and communication\"). Preliminary data as first published. Archived copies are used because nsi.bg blocks automated downloads.",
+ "releases": [
+  {
+   "quarter": "2019Q1",
+   "currency": "BGN",
+   "months": [
+    1192,
+    1184,
+    1247
+   ],
+   "quarterAverage": 1208,
+   "ictAverage": 2930,
+   "source": "https://web.archive.org/web/20190921093959/https://www.nsi.bg/sites/default/files/files/pressreleases/EmplsSalary2019q1_en_8OZNSGO.pdf"
+  },
+  {
+   "quarter": "2019Q2",
+   "currency": "BGN",
+   "months": [
+    1281,
+    1246,
+    1253
+   ],
+   "quarterAverage": 1260,
+   "ictAverage": 3053,
+   "source": "https://web.archive.org/web/20190917003209/https://www.nsi.bg/sites/default/files/files/pressreleases/EmplsSalary2019q2_en_2YMBTGT.pdf"
+  },
+  {
+   "quarter": "2019Q3",
+   "currency": "BGN",
+   "months": [
+    1257,
+    1224,
+    1266
+   ],
+   "quarterAverage": 1249,
+   "ictAverage": 2988,
+   "source": "https://web.archive.org/web/20191113231037/https://www.nsi.bg/sites/default/files/files/pressreleases/EmplsSalary2019q3_en_681F6BK.pdf"
+  },
+  {
+   "quarter": "2019Q4",
+   "currency": "BGN",
+   "months": [
+    1296,
+    1294,
+    1349
+   ],
+   "quarterAverage": 1313,
+   "ictAverage": 3090,
+   "source": "https://web.archive.org/web/20200925070613/https://www.nsi.bg/sites/default/files/files/pressreleases/EmplsSalary2019q4_en_Z244RMO.pdf"
+  },
+  {
+   "quarter": "2020Q1",
+   "currency": "BGN",
+   "months": [
+    1323,
+    1308,
+    1321
+   ],
+   "quarterAverage": 1317,
+   "ictAverage": 3236,
+   "source": "https://web.archive.org/web/20200928092448/https://www.nsi.bg/sites/default/files/files/pressreleases/EmplsSalary2020q1_en_D9ETBN4.pdf"
+  },
+  {
+   "quarter": "2020Q2",
+   "currency": "BGN",
+   "months": [
+    1323,
+    1333,
+    1355
+   ],
+   "quarterAverage": 1337,
+   "ictAverage": 3270,
+   "source": "https://web.archive.org/web/20201015132905/https://www.nsi.bg/sites/default/files/files/pressreleases/EmplsSalary2020q2_en_XLUYINS.pdf"
+  },
+  {
+   "quarter": "2020Q3",
+   "currency": "BGN",
+   "months": [
+    1387,
+    1335,
+    1397
+   ],
+   "quarterAverage": 1373,
+   "ictAverage": 3208,
+   "source": "https://web.archive.org/web/20201115114355/https://www.nsi.bg/sites/default/files/files/pressreleases/EmplsSalary2020q3_en_75TEJTY.pdf"
+  },
+  {
+   "quarter": "2020Q4",
+   "currency": "BGN",
+   "months": [
+    1442,
+    1402,
+    1468
+   ],
+   "quarterAverage": 1437,
+   "ictAverage": 3346,
+   "source": "https://web.archive.org/web/20210414202333/https://www.nsi.bg/sites/default/files/files/pressreleases/EmplsSalary2020q4_en_NP4P0GU.pdf"
+  },
+  {
+   "quarter": "2021Q1",
+   "currency": "BGN",
+   "months": [
+    1454,
+    1431,
+    1500
+   ],
+   "quarterAverage": 1462,
+   "ictAverage": 3613,
+   "source": "https://web.archive.org/web/20210614203823/https://www.nsi.bg/sites/default/files/files/pressreleases/EmplsSalary2021q1_en_J8DLS2Q.pdf"
+  },
+  {
+   "quarter": "2021Q2",
+   "currency": "BGN",
+   "months": [
+    1542,
+    1530,
+    1505
+   ],
+   "quarterAverage": 1525,
+   "ictAverage": 3709,
+   "source": "https://web.archive.org/web/20210914222633/https://www.nsi.bg/sites/default/files/files/pressreleases/EmplsSalary2021q2_en_07PI42S.pdf"
+  },
+  {
+   "quarter": "2021Q3",
+   "currency": "BGN",
+   "months": [
+    1533,
+    1485,
+    1543
+   ],
+   "quarterAverage": 1520,
+   "ictAverage": 3687,
+   "source": "https://web.archive.org/web/20211115150650/https://www.nsi.bg/sites/default/files/files/pressreleases/EmplsSalary2021q3_en_ENMB8OI.pdf"
+  },
+  {
+   "quarter": "2021Q4",
+   "currency": "BGN",
+   "months": [
+    1581,
+    1579,
+    1676
+   ],
+   "quarterAverage": 1612,
+   "ictAverage": 3856,
+   "source": "https://web.archive.org/web/20220214114103/https://www.nsi.bg/sites/default/files/files/pressreleases/EmplsSalary2021q4_en_7AZLGVH.pdf"
+  },
+  {
+   "quarter": "2022Q1",
+   "currency": "BGN",
+   "months": [
+    1566,
+    1545,
+    1668
+   ],
+   "quarterAverage": 1593,
+   "ictAverage": 4060,
+   "source": "https://web.archive.org/web/20220625014324/https://nsi.bg/sites/default/files/files/pressreleases/EmplsSalary2022q1_en_IL5JOPT.pdf"
+  },
+  {
+   "quarter": "2022Q2",
+   "currency": "BGN",
+   "months": [
+    1771,
+    1708,
+    1710
+   ],
+   "quarterAverage": 1730,
+   "ictAverage": 4216,
+   "source": "https://web.archive.org/web/20221204122030/https://www.nsi.bg/sites/default/files/files/pressreleases/EmplsSalary2022q2_en_9UY7KPI.pdf"
+  },
+  {
+   "quarter": "2022Q3",
+   "currency": "BGN",
+   "months": [
+    1750,
+    1693,
+    1787
+   ],
+   "quarterAverage": 1743,
+   "ictAverage": 4191,
+   "source": "https://web.archive.org/web/20221111145537/https://www.nsi.bg/sites/default/files/files/pressreleases/EmplsSalary2022q3_en_0TCS7YP.pdf"
+  },
+  {
+   "quarter": "2022Q4",
+   "currency": "BGN",
+   "months": [
+    1839,
+    1851,
+    1947
+   ],
+   "quarterAverage": 1879,
+   "ictAverage": 4417,
+   "source": "https://web.archive.org/web/20230214161931/https://nsi.bg/sites/default/files/files/pressreleases/EmplsSalary2022q4_en_JG2F4FT.pdf"
+  },
+  {
+   "quarter": "2023Q1",
+   "currency": "BGN",
+   "months": [
+    1863,
+    1830,
+    1953
+   ],
+   "quarterAverage": 1882,
+   "ictAverage": 4578,
+   "source": "https://web.archive.org/web/20230618043619/https://www.nsi.bg/sites/default/files/files/pressreleases/EmplsSalary2023q1_en_3BAKQPV.pdf"
+  },
+  {
+   "quarter": "2023Q2",
+   "currency": "BGN",
+   "months": [
+    2009,
+    1935,
+    1927
+   ],
+   "quarterAverage": 1957,
+   "ictAverage": 4732,
+   "source": "https://web.archive.org/web/20230919095832/https://www.nsi.bg/sites/default/files/files/pressreleases/EmplsSalary2023q2_en_AY7JXMY.pdf"
+  },
+  {
+   "quarter": "2023Q3",
+   "currency": "BGN",
+   "months": [
+    1973,
+    1957,
+    2072
+   ],
+   "quarterAverage": 2000,
+   "ictAverage": 4670,
+   "source": "https://web.archive.org/web/20231114153427/https://www.nsi.bg/sites/default/files/files/pressreleases/EmplsSalary2023q3_en_ORYPQBI.pdf"
+  },
+  {
+   "quarter": "2023Q4",
+   "currency": "BGN",
+   "months": [
+    2098,
+    2099,
+    2173
+   ],
+   "quarterAverage": 2123,
+   "ictAverage": 4852,
+   "source": "https://web.archive.org/web/20240621083236/https://nsi.bg/sites/default/files/files/pressreleases/EmplsSalary2023q4_en_9NS1JW3.pdf"
+  },
+  {
+   "quarter": "2024Q1",
+   "currency": "BGN",
+   "months": [
+    2155,
+    2139,
+    2300
+   ],
+   "quarterAverage": 2198,
+   "ictAverage": 5252,
+   "source": "https://web.archive.org/web/20240714073219/https://nsi.bg/sites/default/files/files/pressreleases/EmplsSalary2024q1_en_XW56HSS.pdf"
+  },
+  {
+   "quarter": "2024Q2",
+   "currency": "BGN",
+   "months": [
+    2303,
+    2310,
+    2276
+   ],
+   "quarterAverage": 2296,
+   "ictAverage": 5164,
+   "source": "https://web.archive.org/web/20241003200455/https://www.nsi.bg/sites/default/files/files/pressreleases/EmplsSalary2024q2_en_JAZ7KI1.pdf"
+  },
+  {
+   "quarter": "2024Q3",
+   "currency": "BGN",
+   "months": [
+    2292,
+    2227,
+    2306
+   ],
+   "quarterAverage": 2275,
+   "ictAverage": 5127,
+   "source": "https://web.archive.org/web/20241116202040/https://www.nsi.bg/sites/default/files/files/pressreleases/EmplsSalary2024q3_en_XEOCGEN.pdf"
+  },
+  {
+   "quarter": "2024Q4",
+   "currency": "BGN",
+   "months": [
+    2387,
+    2383,
+    2468
+   ],
+   "quarterAverage": 2413,
+   "ictAverage": 5305,
+   "source": "https://web.archive.org/web/20250530183850/https://www.nsi.bg/en/file/26779/EmplsSalary2024q4_en_UP1AG32.pdf"
+  },
+  {
+   "quarter": "2025Q1",
+   "currency": "BGN",
+   "months": [
+    2407,
+    2366,
+    2556
+   ],
+   "quarterAverage": 2443,
+   "ictAverage": 5739,
+   "source": "https://web.archive.org/web/20250530174857/https://www.nsi.bg/en/file/28693/EmplsSalary2025q1_en_VL1KWH4.pdf"
+  },
+  {
+   "quarter": "2025Q2",
+   "currency": "BGN",
+   "months": [
+    2588,
+    2582,
+    2547
+   ],
+   "quarterAverage": 2572,
+   "ictAverage": 5551,
+   "source": "https://web.archive.org/web/20250812101148/https://www.nsi.bg/en/file/30648/employees_and_average_wages_and_salaries.pdf"
+  },
+  {
+   "quarter": "2025Q3",
+   "currency": "BGN",
+   "months": [
+    2570,
+    2497,
+    2580
+   ],
+   "quarterAverage": 2549,
+   "ictAverage": 5512,
+   "source": "https://web.archive.org/web/20251114072642/https://www.nsi.bg/en/file/32423/employees_and_average_wages_and_salaries.pdf"
+  },
+  {
+   "quarter": "2025Q4",
+   "currency": "BGN",
+   "months": [
+    2641,
+    2654,
+    2741
+   ],
+   "quarterAverage": 2678,
+   "ictAverage": 5739,
+   "source": "https://web.archive.org/web/20260213102353/https://www.nsi.bg/en/file/33952/employees_and_average_wages_and_salaries.pdf"
+  },
+  {
+   "quarter": "2026Q1",
+   "currency": "EUR",
+   "months": [
+    1381,
+    1365,
+    1475
+   ],
+   "quarterAverage": 1407,
+   "ictAverage": 3176,
+   "source": "https://web.archive.org/web/20260516000344/https://www.nsi.bg/en/file/35635/employees_and_average_wages_and_salaries.pdf"
+  },
+  {
+   "quarter": "2026Q2",
+   "currency": "EUR",
+   "months": [
+    1476,
+    1434,
+    1421
+   ],
+   "quarterAverage": 1444,
+   "ictAverage": 3079,
+   "source": "https://www.bta.bg/en/news/economy/1183970-annual-wage-growth-in-bulgaria-slows-to-9-8-in-q2-average-wage-eur-1-444",
+   "note": "NSI release of 12.08.2026 as reported by BTA (nsi.bg blocks automated access)"
+  }
+ ]
+}

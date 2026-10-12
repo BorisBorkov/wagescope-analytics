@@ -1,0 +1,116 @@
+{
+  "_about": "Official values transcribed by hand from primary documents (PDF releases, legal acts). Each block names its source. BGN values are converted to EUR at the fixed euro conversion rate 1.95583 in scripts/build-data.mjs.",
+
+  "minimumWage": {
+    "title": "Statutory minimum monthly wage",
+    "source": "Council of Ministers decrees on the minimum wage; cross-checked automatically against Eurostat earn_mw_cur",
+    "url": "https://ec.europa.eu/eurostat/databrowser/view/earn_mw_cur/default/table",
+    "periods": [
+      { "from": "2015-01-01", "bgn": 360 },
+      { "from": "2015-07-01", "bgn": 380 },
+      { "from": "2016-01-01", "bgn": 420 },
+      { "from": "2017-01-01", "bgn": 460 },
+      { "from": "2018-01-01", "bgn": 510 },
+      { "from": "2019-01-01", "bgn": 560 },
+      { "from": "2020-01-01", "bgn": 610 },
+      { "from": "2021-01-01", "bgn": 650 },
+      { "from": "2022-04-01", "bgn": 710 },
+      { "from": "2023-01-01", "bgn": 780 },
+      { "from": "2024-01-01", "bgn": 933 },
+      { "from": "2025-01-01", "bgn": 1077 },
+      { "from": "2026-01-01", "eur": 620.2 }
+    ]
+  },
+
+  "maxInsurableIncome": {
+    "title": "Maximum monthly insurable income (the legal upper threshold for social security contributions)",
+    "source": "National Social Security Institute (NOI) — table of contribution rates and insurable income by year",
+    "url": "https://nssi.bg/wp-content/uploads/Samoosigureni.pdf",
+    "periods": [
+      { "from": "2015-01-01", "bgn": 2600 },
+      { "from": "2019-01-01", "bgn": 3000 },
+      { "from": "2022-04-01", "bgn": 3400 },
+      { "from": "2024-01-01", "bgn": 3750 },
+      { "from": "2025-04-01", "bgn": 4130 },
+      { "from": "2026-01-01", "eur": 2111.64 },
+      { "from": "2026-08-01", "eur": 2300 }
+    ]
+  },
+
+  "sofiaLatestQuarters": {
+    "title": "Average gross monthly wage, district Sofia (capital) — quarters after the last archived NSI time series",
+    "source": "NSI Territorial Statistical Bureau — quarterly releases for the district of Sofia (capital)",
+    "rows": [
+      { "quarter": "2025Q4", "bgn": 3635,
+        "url": "https://www.nsi.bg/tsb/2026/04/06/%D0%BD%D0%B0%D0%B5%D1%82%D0%B8-%D0%BB%D0%B8%D1%86%D0%B0-%D0%B8-%D1%81%D1%80%D0%B5%D0%B4%D0%BD%D0%B0-%D0%B1%D1%80%D1%83%D1%82%D0%BD%D0%B0-%D0%B7%D0%B0%D0%BF%D0%BB%D0%B0%D1%82%D0%B0-%D0%B2-%D0%BE-279/" },
+      { "quarter": "2026Q1", "eur": 1915, "publicSector": 1763, "privateSector": 1950,
+        "url": "https://www.nsi.bg/tsb/wp-content/uploads/2026/06/naeti-lica-SOF-1-trim2026_1.pdf" },
+      { "quarter": "2026Q2", "eur": 1943, "publicSector": 1833, "privateSector": 1969,
+        "url": "https://www.nsi.bg/tsb/wp-content/uploads/2026/08/naeti-lica-sredna-rabotna-SOF-2026_1.pdf",
+        "via": "https://www.standartnews.com/biznes/srednata-zaplata-v-stolicata-udari-nov-vrah-647293.html" }
+    ]
+  },
+
+  "annualWage2025": {
+    "title": "Average annual gross wages and salaries, 2025 (preliminary)",
+    "bgn": 31239,
+    "source": "NSI — Employees and average wages and salaries 2025, preliminary data",
+    "url": "https://web.archive.org/web/20260226170352/https://www.nsi.bg/en/file/34131/employees_and_average_wages_and_salaries.pdf"
+  },
+
+  "sectorsQ1_2026": {
+    "title": "Employees and average gross monthly wages by economic activity, January–March 2026",
+    "source": "NSI — Employees and average wages and salaries, Q1 2026: Annex tables 1 and 2 (monthly), Figure 2 (quarter averages, field published)",
+    "url": "https://web.archive.org/web/20260516000344/https://www.nsi.bg/en/file/35635/employees_and_average_wages_and_salaries.pdf",
+    "months": ["2026-01", "2026-02", "2026-03"],
+    "rows": [
+      { "code": "A", "employees": [59466, 59159, 59896], "eur": [965, 968, 1010], "published": 981 },
+      { "code": "B", "employees": [17410, 17451, 17439], "eur": [1679, 1721, 1739], "published": 1713 },
+      { "code": "C", "employees": [433518, 431784, 429659], "eur": [1175, 1180, 1249], "published": 1201 },
+      { "code": "D", "employees": [28448, 28502, 28538], "eur": [2207, 1933, 2041], "published": 2060 },
+      { "code": "E", "employees": [37285, 37418, 36953], "eur": [1033, 1040, 1071], "published": 1048 },
+      { "code": "F", "employees": [140754, 140401, 139624], "eur": [1075, 1106, 1150], "published": 1110 },
+      { "code": "G", "employees": [392409, 393409, 393081], "eur": [1205, 1183, 1270], "published": 1220 },
+      { "code": "H", "employees": [143800, 143768, 142896], "eur": [1213, 1183, 1246], "published": 1214 },
+      { "code": "I", "employees": [108349, 107991, 105888], "eur": [867, 862, 882], "published": 870 },
+      { "code": "J", "employees": [131251, 130888, 130466], "eur": [2960, 2953, 3617], "published": 3176 },
+      { "code": "K", "employees": [57826, 57855, 57819], "eur": [2100, 1980, 2598], "published": 2226 },
+      { "code": "L", "employees": [20838, 20950, 21027], "eur": [1231, 1235, 1311], "published": 1259 },
+      { "code": "M", "employees": [88728, 88921, 88931], "eur": [1841, 1854, 2074], "published": 1923 },
+      { "code": "N", "employees": [116112, 115867, 114871], "eur": [1174, 1179, 1275], "published": 1209 },
+      { "code": "O", "employees": [114440, 114567, 114709], "eur": [1752, 1519, 1504], "published": 1591 },
+      { "code": "P", "employees": [175865, 176280, 176464], "eur": [1401, 1447, 1462], "published": 1437 },
+      { "code": "Q", "employees": [213777, 214818, 215590], "eur": [1362, 1361, 1423], "published": 1382 },
+      { "code": "R", "employees": [40317, 40248, 40063], "eur": [1235, 1244, 1302], "published": 1260 },
+      { "code": "S", "employees": [38722, 38876, 38912], "eur": [991, 1012, 1040], "published": 1014 }
+    ],
+    "total": { "employees": [2359315, 2359153, 2352826], "eur": [1381, 1365, 1475], "published": 1407 }
+  },
+
+  "householdBudget2025": {
+    "title": "Household income, expenditure and consumption — average per household member",
+    "source": "NSI — Household income, expenditure and consumption 2025 (household budget survey)",
+    "url": "https://web.archive.org/web/20260417113111/https://www.nsi.bg/en/file/34991/household_income_expenditure_and_consumption.pdf",
+    "consumerExpenditureBgn": {
+      "food": 3713, "housing": 1950, "transportCommunication": 1413, "recreationEducation": 820, "health": 707,
+      "alcoholTobacco": 520, "clothing": 401, "miscellaneous": 654
+    },
+    "totalExpenditureBgn": 12661,
+    "taxesAndContributionsBgn": 1950,
+    "incomeSourcesBgn": {
+      "wages": 8231, "pensions": 4224, "selfEmployment": 1072, "socialBenefits": 245, "other": 630
+    },
+    "totalIncomeBgn": 14403,
+    "realIncomeIndex2016": { "2016": 100, "2017": 105.9, "2018": 110.9, "2019": 117.9, "2020": 123.2,
+      "2021": 131.2, "2022": 133.0, "2023": 146.3, "2024": 169.4, "2025": 181.4 }
+  },
+
+  "poverty": {
+    "title": "National poverty line and at-risk-of-poverty rate (EU-SILC)",
+    "source": "NSI — Poverty and social inclusion indicators 2025",
+    "url": "https://web.archive.org/web/20260423091932/https://www.nsi.bg/en/file/35109/poverty_and_social_inclusion_indicators_EN.pdf",
+    "lineBgnPerMonth": { "2021": 504.33, "2022": 525.92, "2023": 637.92, "2024": 763.83, "2025": 866.67 },
+    "ratePercent": { "2021": 22.1, "2022": 22.9, "2023": 20.6, "2024": 21.7, "2025": 21.2 },
+    "inWorkRate2025": 11.8
+  }
+}
